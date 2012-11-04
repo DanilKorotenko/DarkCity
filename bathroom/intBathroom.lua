@@ -1,0 +1,2 @@
+dofile('bathroom/bathroom.lua');
+
