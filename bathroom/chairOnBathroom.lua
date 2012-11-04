@@ -1,7 +1,7 @@
-bathroom = room
+chairOnBathroom = obj
 {
-	nam = 'Ванная',
-	dsc = '.',
---	obj = { 'dayLightLamp', 'corridorWindows' },
+	nam = 'Стул в ванной',
+	dsc = 'В углу стоит стул.',
+	obj = { 'clothesOnChair' },
 };
 

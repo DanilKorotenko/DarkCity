@@ -14,19 +14,17 @@ game.inv = 'ERROR: "inv" undefined';
 game.use = 'ERROR: "use" undefined';
 game.forcedsc = true;
 
--- Обязательная строка! Запускает  файл игры.
+global
+{
+	playerClothed = false,
+}
+
 dofile('bathroom/intBathroom.lua');
 
 main = room {
-	-- Эта обязательная сцена, которая появится первой, после запуска игры.
-	-- Код этой сцены будет помещен в файл main.lua
-
-		nam = 'Темный город.',
-		dsc = "Описание игры."..[[^^
-		Реализация: (С) Ноябрь 2012. Данил Коротенко (danil.korotenko@gmail.com).]],
-		obj = { vway("дальше", "Нажмите {здесь} чтобы начать игру.", 'bathroom') },
-	
-		--pic = 'volk.jpg',
-	--obj = {},
+	nam = 'Темный город.',
+	dsc = "Описание игры."..[[^^
+	Реализация: (С) Ноябрь 2012. Данил Коротенко (danil.korotenko@gmail.com).]],
+	obj = { vway("дальше", "Нажмите {здесь} чтобы начать игру.", 'bathroom') },
 };
 
