@@ -6,6 +6,7 @@ clothesOnChair = obj
          	here().dsc = [[Вы стоите посреди ванной комнаты. Ванная наполнена холодной водой. Свет от лампы отражается в лужах на полу.]];
 		pn [[Вы оделись и привели себя в порядок.]];
 		chairOnBathroom.obj:del('clothesOnChair');
+		playerClothed = true;
 	        return true;
         end,
 

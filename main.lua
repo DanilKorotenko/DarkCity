@@ -20,6 +20,7 @@ global
 }
 
 dofile('bathroom/intBathroom.lua');
+dofile('hotelRoom/intHotelRoom.lua');
 
 main = room {
 	nam = 'Темный город.',
