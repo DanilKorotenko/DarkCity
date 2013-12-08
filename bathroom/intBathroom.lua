@@ -4,4 +4,5 @@ dofile('bathroom/chairOnBathroom.lua');
 dofile('bathroom/clothesOnChair.lua');
 dofile('bathroom/windowInBathroom.lua');
 dofile('bathroom/doorInBathroom.lua');
+dofile('bathroom/tubInBathroom.lua');
 
