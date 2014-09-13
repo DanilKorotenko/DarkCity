@@ -1,17 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
                               DARK CITY
                                  by
 
@@ -55,6 +42,10 @@
 
      The STRANGERS walk silently out into the city.
 
+     
+********************************************************************************
+*	Scene 1
+********************************************************************************
 
      INT.  BATHROOM  -  NIGHT
 
@@ -133,6 +124,7 @@
      He steps back into the bathroom and throws the fish into the murky
      water in the tub.
 
+
      BACK IN THE OTHER ROOM  -  SERIES OF ANGLES ON WALKER
 
      He moves cautiously through the room.  He turns a light on.
@@ -163,6 +155,12 @@
      Walker throws his hands over his mouth.
 
 
+     
+********************************************************************************
+*	Scene 2
+********************************************************************************
+
+     
      INT.  HOTEL CORRIDOR  -  NIGHT
 
      Walker staggers from the room, grabs a wall for support.

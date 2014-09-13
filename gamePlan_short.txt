@@ -1,0 +1,7 @@
+Scene 1
+Room: bathroom
+	player need to stand up from bath.
+	Object: door to <hotel room>
+
+Room: hotel room
+	Object: door to <hotel corridor>
