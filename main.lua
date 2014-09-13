@@ -1,8 +1,8 @@
--- $Name:Темный Город$
+-- $Name: Dark City$
 -- $Version:1.0.0$
--- $Author:Данил Коротенко$
+-- $Author:Danil Korotenko$
 
-game.dsc = [[Игра по мотивам одноименного фильма.]];
+game.dsc = [[Game by film story.]];
 
 instead_version '1.6.0';
 
@@ -10,23 +10,16 @@ game.codepage = 'UTF-8';
 game.act = function(o, b)
 	return 'ERROR: "act" undefined for "'..tostring(b.nam)..'"';
 end;
+
 game.inv = 'ERROR: "inv" undefined';
 game.use = 'ERROR: "use" undefined';
 game.forcedsc = true;
 
-global
-{
-	playerClothed = false,
-}
-
-dofile('bathroom/intBathroom.lua');
-dofile('hotelRoom/intHotelRoom.lua');
-dofile('hotelCorridor/intHotelCorridor.lua');
+dofile('scene1.lua');
 
 main = room {
-	nam = 'Темный город.',
-	dsc = "Описание игры."..[[^^
-	Реализация: (С) Ноябрь 2012. Данил Коротенко (danil.korotenko@gmail.com).]],
-	obj = { vway("дальше", "Нажмите {здесь} чтобы начать игру.", 'initBathroom') },
+	nam = 'Dark City.',
+	dsc = "(С) November 2012. Danil Korotenko (danil.korotenko@gmail.com)",
+	obj = { vway("Next", "Click {there} to play.", 'scene1_initBathroom') },
 };
 
