@@ -1,17 +1,5 @@
 
-                              DARK CITY
-                                 by
-
-                             Alex Proyas
-
-                      Revised draft May 9, 1994
-
-
-
-
-
-
-     INT.  OPENING MONTAGE
+INT.  OPENING MONTAGE
 
      OVER BLACK a low rumble increases in volume.
 
@@ -31,7 +19,7 @@
      hands turn  -  TICKING gets louder...
 
 
-     EXT.  CITY STREET  -  NIGHT
+EXT.  CITY STREET  -  NIGHT
 
      The streets are empty  -  no sign of life.  Eerie silence.
 
@@ -47,7 +35,7 @@
 *	Scene 1 - In The Hotel
 ********************************************************************************
 
-     INT.  BATHROOM  -  NIGHT
+INT.  BATHROOM  -  NIGHT
 
      SHADOWS DANCE  -  in and out of darkness.  A hooded light-bulb
      swings IN SLOW MOTION from the ceiling, its dim light REVEALS:
@@ -86,14 +74,14 @@
      It's dark out there.
 
 
-     EXT.  BUILDING  -  NIGHT
+EXT.  BUILDING  -  NIGHT
 
      WALKER  -  from outside the window  -  ANGLE BECOMES A RAPID FLYING
      P.O.V. PULLING BACK in silence until the window is a SPECK on the
      side of a vast grey tower.
 
 
-     INT.  BATHROOM  -  NIGHT
+INT.  BATHROOM  -  NIGHT
 
      Walker shivers, cold.  He picks up the clothes lying on the chair
      and puts them on.  Loose trousers with braces, a plain shirt,
@@ -108,7 +96,7 @@
      the room (leading to a corridor?) is shutting.
 
 
-     INT.  HOTEL  -  NIGHT
+INT.  HOTEL  -  NIGHT
 
      WALKER pushes the door open, steps into the adjoining room.  No sign
      of life.
@@ -154,7 +142,7 @@
 
      Walker throws his hands over his mouth.
      
-     INT.  HOTEL CORRIDOR  -  NIGHT
+INT.  HOTEL CORRIDOR  -  NIGHT
 
      Walker staggers from the room, grabs a wall for support.
 
@@ -171,7 +159,7 @@
      Walker makes for the stairs.
 
 
-     INT.  LOBBY  -  NIGHT
+INT.  LOBBY  -  NIGHT
 
      Walker rushes past a deserted front desk.  A VOICE from the back
      room stop him in his tracks:
@@ -237,7 +225,7 @@
                   Yeah.  What?
 
 
-     INT.  HOTEL CORRIDOR  -  NIGHT
+INT.  HOTEL CORRIDOR  -  NIGHT
 
      ANGLE FOLLOWS Walker as he pushes shakily through a red door, runs
      down a corridor.
@@ -247,7 +235,7 @@
      Walker  rounds a corner, slips, nearly falls.
 
 
-     INT.  MENS' ROOM  -  NIGHT
+INT.  MENS' ROOM  -  NIGHT
 
      Puddles on the floor, stains on the walls.
 
@@ -255,7 +243,7 @@
      toilet bowl and VOMITS.
 
 
-     INT.  HOTEL LOBBY  -  NIGHT
+INT.  HOTEL LOBBY  -  NIGHT
 
      The manager puts the phone down.  he returns to the back-room and
      is just turning the volume up on hhs radio, when:
@@ -315,7 +303,7 @@
      -  Mister Sleep grips a DAGGER by his side.
 
 
-     INT.  MEN'S ROOM  -  NIGHT
+INT.  MEN'S ROOM  -  NIGHT
 
      We are underwater.  WALKER'S FACE swims into view.  Bubbles spew
      from the mouth,  the eyes stare wide.
@@ -350,7 +338,7 @@
                   Shit!
 
 
-     INT.  CONCRETE TUNNEL
+INT.  CONCRETE TUNNEL
 
      Pitch black.  Trickling water.  A distant P.A. VOICE recites names
      and numbers.  LIGHT, far away.
@@ -427,200 +415,6 @@
 ********************************************************************************
 
 
-     INT.  HOTEL CORRIDOR  -  MOMENTS LATER
-
-     TRACK WITH STRANGER 2 as he walks UP THE CORRIDOR and into Walker's
-     hotel room...
-
-     REVEAL A HIDING FIGURE  -  a man wearing thick spectacles, clutching
-     a leather bag, obscured by the shadows.  He watches the Stranger go
-     past...
-
-
-     INT.  ROOM 43/BATHROOM  -  NIGHT
-
-     The room is illuminated by light spilling through the open door from
-     the corridor.
-
-     A TALL STRANGER, clutching a silver metal case, stands staring down
-     at the BROKEN SYRINGE on the bathroom floor.  His expressionless
-     face is as close to perplexed as it can get.  This is MISTER HAND.
-
-     STRANGER 2 steps across to Mister Hand.  Stranger 2 just shakes his
-     head slowly.
-
-                            MISTER HAND
-                  And Mister Quick?
-
-                            STRANGER 2
-                  He is alright.
-
-     Stranger 2 indicates a small black box he holds in his open palm.
-
-     Mister Hand nods, moves into the bedroom.
-
-     Stranger 2 stops near the body of the dead woman, kicks at her with
-     his foot.
-
-     Mister Hand is at the OPEN WINDOW, looking out into the night.
-
-                            MISTER HAND
-                  We will find him.
-
-     ANGLE PUSHES THROUGH WINDOW TO FRAME CITY SKYLINE...
-
-
-     INT.  MORGUE/CORRIDOR  -  NIGHT
-
-     CLICKING of new leather shoes, striking tiles.
-
-     ANGLE MOVES WITH FRANK BUMSTEAD  -  police inspector.  He's forty,
-     losing hair and gaining pounds.
-
-     He reaches into his pocket, removes a SURGICAL MASK, places it over
-     his nose and mouth.
-
-     Suddenly a FEMALE MORTICIAN steps into the corridor.  Bumstead
-     doesn't notice and runs right into her.  The mortician gasps on
-     impact, startled.
-
-                            BUMSTEAD
-                       (to mortician)
-                  Gesundheit!
-
-     The mortician looks confused but she smiles politely.
-
-     Bumstead is already moving off quickly.  He obviously has a lot on
-     his mind.
-
-     WIDER ANGLE  -  Bumstead stops before a man with a moustache
-     standing at the end of the corridor.  Older and taller than
-     Bumstead, he is dressed identically to the inspector.  This is his
-     superior:  CHIEF-INSPECTOR MARCUS STROMBOLI.
-
-                            BUMSTEAD
-                       (Cont.)
-                  Good evening, sir.
-
-                            STROMBOLI
-                  You're late.
-
-                            BUMSTEAD
-                  Really?
-                       (looks at watch)
-                  Actually, according to my watch,
-                  I'm...
-
-                            STROMBOLI
-                  Why have you got that thing on your
-                  face?
-
-                            BUMSTEAD
-                  Germs, sir.  This place is full of
-                  them.
-
-                            STROMBOLI
-                       (even)
-                  Mm-hm.
-
-     Stromboli waves dismissively.
-
-                            STROMBOLI
-                       (Cont.)
-                  Fine.  This way.
-
-     He leads Bumstead into a tiled room containing several COVERED
-     BODIES.  The two men are greeted by a CORONER and a very thin
-     forensics man named EUGENE CAPEK.
-
-                            CORONER
-                  Gentlemen.  Running ahead of
-                  schedule tonight?
-
-     Stromboli looks annoyed, glances briefly at Bumstead.
-
-                            CORONER
-                       (Cont.)
-                  Make yourselves at home.
-
-     Stromboli then ignores the coroner and, after a quick nod to Capek,
-     walks along the row of corpses.  Bumstead follows.
-
-     ANGLE MOVES WITH STROMBOLI  -  as he silently throws back covers to
-     reveal horribly mutilated BODIES.
-
-                            STROMBOLI
-                  We know very little about him.  He
-                  likes to cut them.  Always the same
-                  type of blade.  A match in each
-                  case...
-
-     He removes the sheet froma YOUNG WOMAN.  Capek takes particular
-     interest in this corpse.
-
-                            STROMBOLI
-                       (Cont.)
-                  The latest.  Pretty.
-                       (looks at her face)
-                  He made incisions in her jugulars
-                  and strung her up by her ankles.
-
-                            CAPEK
-                  To drain the blood.
-
-                            STROMBOLI
-                  Yes.  Then he dumped her in the
-                  canal.
-
-     STROMBOLI shakes his head, turns away from the body, looks at
-     Bumstead.
-
-     IN THE B.G.  -  Capek and the coroner are talking quietly to each
-     other, we cannot hear what is said.
-
-                            STROMBOLI
-                       (Cont.)
-                  Capek here, is the new chief of
-                  Forensics.  You'll be seeing a lot
-                  of each other.
-
-     Bumstead and Capek shake hands.
-
-                            BUMSTEAD
-                  What about Kowolski, sir?  Isnнt it
-                  his case?
-
-                            STROMBOLI
-                  Kowolski's had some kind of a
-                  breakdown or some damn thing
-
-                            BUMSTEAD
-                  I didn't know that.
-
-                            STROMBOLI
-                  I thought it best he take a long
-                  rest.  The case is your
-                  responsibility now.
-                       (less business-like)
-                  And howнs your mother?
-
-                            BUMSTEAD
-                  She's...  progressing, thankyou.
-                  She...
-
-                            STROMBOLI (cuts in)
-                  Very good.  Give her my regards,
-                  will you.
-                       (turns to Capek)
-                  All yours Doctor.
-
-     Capek nods slowly, and turns to start examining the woman.
-
-                            STROMBOLI
-                       (Cont.)
-                  Letнs go, Bumstead.  So much to do
-                  and so little time.
-
 
 
 
@@ -628,7 +422,7 @@
 *	Scene 2 - The Way Out
 ********************************************************************************
 
-     EXT.  BUILDING  -  NIGHT
+EXT.  BUILDING  -  NIGHT
 
      A large faded BILLBOARD on a building facade:  an advertisement
      featuring a smiling woman clutching a product called, "LUMP-O"  -  a
@@ -638,7 +432,7 @@
      ENTERS a hole at the centre of her PAINTED IRIS.
 
 
-     INT.  STAIR-WELL
+INT.  STAIR-WELL
 
      A raftered room on the other side of the billboard.  CAMERA TILTS TO
      a convoluted staircase  -  at the base, the SHADOW OF A MAN runs.
@@ -675,382 +469,25 @@
 
      Walker looks up  -  terrified.  The RUSHING NOISE O.S. again.
 
-
-
 ********************************************************************************
 *	End of Scene 2 - The Way Out
 ********************************************************************************
-
-
-
-
-
-     INT.  CORRIDOR  -  NIGHT
-
-     TIGHT ON a flaking door.  A hand ENTERS FRAME and pushes the buzzer.
-     The door opens almost immediately  -  an OLD WOMAN looks out.
-
-                            OLD WOMAN
-                  Yes?
-
-                            SCHREBER O.S.
-                  My name is Schreber  -  Doctor
-                  Daniel Schreber.  I'm here to see
-                  Mrs. Walker.
-
-                            WOMAN'S VOICE O.S.
-                  Who's there, Mother?
-
-     The old woman turns into the room.
-
-                            OLD WOMAN
-                  It's a Doctor Daniels...
-
-     REVEAL DOCTOR SCHREBER  -  he wears thick glasses, in his late
-     fifties.  He's breathing heavily like he's been running.
-
-                            SCHREBER
-                  Schreber, Madame...  Doctor Sch...
 
      Suddenly EMMA WALKER is standing in the doorway  -  she's in her
      early thirties, red hair, attractive, but looking like she hasn't
      slept much.
 
-                            SCHREBER
-                       (Cont.)
-                  You are Emma?
-
-                            EMMA
-                  What do you want?
-
-                            SCHREBER
-                  It's about your husband.
-
-                            EMMA
-                  You know where he is?
-
-                            SCHREBER
-                  Not exactly...
-                       (pauses  -  smiles)
-                  May I come in?
-
-     Emma and her mother move aside and let Schreber pass.
-
-
-     INT.  EMMA'S APARTMENT  -  NIGHT
-
-     ANOTHER ANGLE LEADS Schreber into the room as he sits on a sofa  -
-     he has to clear away clothes to make a space for himself.
-
-                            SCHREBER
-                  I'm John's doctor.  He was coming to
-                  me regularly.  Did he mention
-                  anything about this to you?
-
-                            EMMA
-                  He said he needed emotional support,
-                  but I didn't know he was seeing
-                  anyone...
-
-                            SCHREBER
-                  When was the last time you spoke to
-                  him?
-
-                            EMMA
-                  Three weeks ago.
-                       (beat)
-                  We've been separated for awhile,
-                  and...
-
-                            SCHREBER
-                  Yes  -  I know.  Do you think I
-                  could have some water?  I'm a little
-                  parched.
-
-     Emma's mother smiles and heads for the kitchen, an adjoining
-     room.
-
-                            SCHREBER
-                       (Cont.)
-                  Emma, I'm here because I think John
-                  is in trouble  -  I'm not sure what
-                  kind exactly, but I know we must
-                  find him.
-
-     Schreber accepts a glass from Emma's mother.
-
-                            SCHREBER
-                       (Cont.)
-                  Thankyou.
-
-                            EMMA
-                  Do you know why he stopped calling
-                  me?
-
-                            OLD WOMAN
-                  He's irresponsible, that's why.
-                  Emma's four months pregnant,
-                  y'know...
-
-                            EMMA
-                  Mother.
-
-     Schreber drinks in big gulps  -  nearly the whole thing.
-
-                            SCHREBER
-                  Good.  I was so thirsty.
-
-     He puts the glass down.
-
-                            SCHREBER
-                       (Cont.)
-                  When I spoke to him, John was very
-                  confused.  He seemed lost.
-
-                            EMMA
-                  I don't understand...
-
-                            SCHREBER
-                  I'm afraid I mean that literally.
-                  He's lost himself  -  his identity.
-                  He has no understanding of who he
-                  is.
-
-     Emma sits, looks at the floor.
-
-                            EMMA
-                  How did this happen?
-
-                            SCHREBER
-                  I don't know.  The important thing
-                  is we must help him.  He may contact
-                  you.  You must get him to tell you
-                  where he is, then call me
-                  immediately.
-
-     He places a business card on the coffee table.
-
-                            SCHREBER
-                       (Cont.)
-                  Do not try and reason with him,
-                  Emma.  Please leave that to me.  It
-                  is very important you call me.
-
-     Emma just nods.
-
-
-     INT.  POLICE STATION  -  NIGHT
-
-     BUMSTEAD is moving quickly.  He passes a grey-haired uniformed cop,
-     OFFICER HUSSELBECK, pacing in the opposite direction.
-
-                            HUSSELBECK
-                  'Evening, Bumstead.
-
-                            BUMSTEAD
-                       (nods)
-                  Husselbeck.
-                       (points at Husselbeck's
-                        shoe)
-                  Lace is untied.
-
-     Husselbeck looks down.  Bumstead doesn't lie.
-
-     Husselbeck crouches to tie his shoe, as Bumstead KEEPS MOVING,
-     rounds a corner and is gone.
-
-     SEVERAL ANGLES  -  as Bumstead paces with determination through the
-     corridors of PRECINCT 7.  Like everything else in the city the
-     station is cast, desolate, and decrepit.  Not much sign of police
-     activity, but voices and ringing phones are heard echoing from a
-     distance.
-
-     HIS P.O.V.
-
-     A door  -  KOWOLSKI:  DETECTIVE/INSPECTOR on the frosted glass.
-     Bumstead stands, pushes into the office.
-
-
-     INT.  KOWOLSKI'S OFFICE  -  NIGHT
-
-     INSIDE Chaos  -  paperwork everywhere, dozens of used coffee cups,
-     rotting food in greasy paper bags.  Bumstead shakes his head slowly.
-
-                            BUMSTEAD
-                  A shame...
-
-     He starts to look around.
-
-     TIGHT ON FILING CABINET  -  a drawer is pulled open.  Kowolskiнs
-     files are also a mess.
-
-     Bumstead continues to shake his head.  He reaches for a file.  A
-     loud SNAP!
-
-                            BUMSTEAD
-                       (Cont.)
-                  YAAAAAAAAAH!
-
-     He recoils.  A mousetrap has caught his fingers.  He pulls it off
-     his hand, throws it to the floor, cursing.
-
-                            BUMSTEAD
-                       (Cont.)
-                  Dammit!
-
-                            VOICE O.S.
-                  Excuse me...
-
-     Bumsteads spins to see a tall, stiff-looking woman of about thirty
-     -  this is PATRICIA CRENSHAW.
-
-                            CRENSHAW
-                  I didn't mean to startle you.  I'm
-                  Patricia Crenshaw, your new
-                  assistant.
-
-     She puts out her hand.
-
-                            CRENSHAW
-                       (Cont.)
-                  The Chief-Inspector assigned me.  He
-                  thought you could use some help.
-
-     Bumstead raises an eyebrow.
-
-                            CRENSHAW
-                       (Cont.)
-                  He was quite specific.  He said you
-                  needed someone to keep track of your
-                  appointments.
-
-                            BUMSTEAD
-                  I see.
-
-     He takes her hand tentatively.  They shake.
-
-                            CRENSHAW
-                  I can also take short hand.  I type
-                  over forty words per minute, and...
-
-                            BUMSTEAD
-                  Yes, fine, but I'm very busy right
-                  now as you can see...
-
-                            CRENSHAW
-                  Is there anything I can do?
-
-     Bumstead looks at her for a moment.
-
-                            BUMSTEAD
-                  I suppose you can help.  This office
-                  needs to be put into order.  I'm
-                  looking for files on the serial
-                  killer case.
-
-                            CRENSHAW
-                  Certainly, sir.  I'll get on it
-                  right away.
-
-                            BUMSTEAD
-                  Kowolski was a little...  paranoid.
-                  He probably set more traps, so be
-                  careful.  Get a couple of uniforms
-                  to help you.  Bring any files you
-                  find to me.
-
-                            CRENSHAW
-                  Uniforms?
-
-                            BUMSTEAD
-                  Police officers, Miss Crenshaw.
-
-     Bumstead turns to walk away.
-
-                            CRENSHAW
-                  You wonнt regret this, sir.
-
-     Bumstead just moves off.
-
-
-     INT.  BUMSTEAD'S OFFICE  -  LATER
-
-     TRACK PAST towering files bursting at the seams with paperwork, TO
-     FIND Bumstead hunched over notes, photographs, reports.
-
-     SUDDENLY a steaming cup goes down in front of him
-
-     Bumstead looks up to see Crenshaw standing in front of him.  She
-     clutches another big pile of paperwork which she puts down on his
-     already overcrowded desk.
-
-                            CRENSHAW
-                  Are we making progress?
-
-     He looks at her like she just slapped him.
-
-                            BUMSTEAD
-                  There are so many leads here, and
-                  none of them organised or followed
-                  up...  I don't understand it at all.
-
-     Bumstead picks up the cup Crenshaw placed before him, takes a sip
-     -  and nearly gags.
-
-                            CRENSHAW
-                  Something wrong?
-
-                            BUMSTEAD
-                  It's coffee.  I don't drink coffee.
-
-                            CRENSHAW
-                  Oh...
-
-                            BUMSTEAD
-                  Get a hold of Capek for me, will
-                  you.
-
-                            CRENSHAW
-                  Capek?
-
-                            BUMSTEAD
-                  Forensics.
-
-                            CRENSHAW
-                  Right away.
-
-     She goes to leave then stops.
-
-                            CRENSHAW
-                       (Cont.)
-                  Is there something you do drink?
-
-     Bumstead's already buried in the files  -  he doesn't look up.
-
-                            BUMSTEAD
-                  Tea.  Milk.  One sugar.
-
-     She smiles enthusiastically and leaves.  Bumstead watches her go,
-     then looks down at the file in front of him.
-
-     HIS P.O.V.  -  a tattered business card is clipped to some
-     documents.  It says in simple print:  DOCTOR D.P. SCHREBER.
-
-
-
-
-
 ********************************************************************************
 *	Scene 3 - In Cafe
 ********************************************************************************
 
-     EXT.  FLYING P.O.V.  -  NIGHT
+EXT.  FLYING P.O.V.  -  NIGHT
 
      A FLYING PERSPECTIVE past buildings.  Way down BELOW, in a canyon of
      silent buildings, a LONE FIGURE walks.
 
 
-     EXT.  DOWN ON THE STREET  -  NIGHT
+EXT.  DOWN ON THE STREET  -  NIGHT
 
      Wind pulls at WALKERнS hair and coat.  He takes out the wallet  -  a
      few dollars.
@@ -1071,7 +508,7 @@
      doorway.
 
 
-     INT.  CHINESE CAFE  -  NIGHT
+INT.  CHINESE CAFE  -  NIGHT
 
      Walker climbs rickety stairs into a small room with a half dozen
      tables.  Empty.  Dirty.  He sits and puts his face in his hands.
@@ -1117,32 +554,11 @@
 ********************************************************************************
 
 
-
-     INT.  BATH-HOUSE  -  NIGHT
-
-     DOCTOR SCHRBER walks down a long corridor.
-
-     People in towels and swimming outfits sit and stand silently lined
-     by a wall, staring into space.
-
-     Schreber walks into a tiled room thick with steam.  He walks the
-     length of a large heated pool  -  one or two people swim about
-     weakly or sit on the edge washing themselves.
-
-     TIGHT ON SCHREBER  -  He removes his clothes and steps gently into
-     the tepid pool.
-
-     The last we see of the doctor, he is immersing himself in the water
-     as a big cloud of steam obscures him.
-
-
-
-
 ********************************************************************************
 *	Scene 4 - In Cafe 2
 ********************************************************************************
 
-     INT.  CHINESE CAFE
+INT.  CHINESE CAFE
 
      Walker is still waiting for his food.
 
@@ -1207,87 +623,11 @@
 ********************************************************************************
 
 
-
-
-     INT.  BATH-HOUSE  -  NIGHT
-
-     Doctor Schreber paddles INTO FRAME and rests against the side of the
-     pool.
-
-     A P.A. VOICE CRACKLES  -  echoing through the bath-house which now
-     seems devoid of life apart from the doctor.
-
-                            VOICE
-                  Closing time in five minutes...
-
-     WE NOW SEE, behind Schreber, the LARGE SHADOW of a man, cast
-     against a tiled wall.
-
-                            SCHREBER
-                  It's not as if it's the first time
-                  this has happened.  There's always
-                  a...  stray or two.  You've dealt
-                  with this kind of thing before.
-
-     CAMERA PANS from the shadow TO REVEAL MISTER HAND.
-
-                            MISTER HAND
-                  But this situation seems to be quite
-                  uncommon, yes?
-
-                            SCHREBER
-                  What makes you say that?
-
-                            MISTER HAND
-                  There are strays.  But we always
-                  find them, wandering like lost
-                  children.  This one has evaded us.
-
-                            SCHREBER
-                  I still don't understand what you
-                  want from me?
-
-     Mister Hand does not answer.  Two other strangers MOVE INTO THE B.G.
-
-                            MISTER HAND
-                  He is your patient  -  he will comes
-                  to you, yes.
-
-                            SCHREBER
-                  Perhaps.  Under the circumstances,
-                  he might do anything...
-
-                            MISTER HAND
-                       (cuts in)
-                  He will come to you.  It is a matter
-                  of time.  You will contain him and
-                  notify us.  This is of great concern
-                  to us, Doctor.  Mister Black will
-                  be asking questions, yes.
-
-     Mister Hand goes to leave then turns back.
-
-                            MISTER HAND
-                       (Cont.)
-                  Next time we meet, we would prefer
-                  it was elsewhere, you know how
-                  uncomfortable all this moisture is
-                  for us...
-
-     THE THREE STRANGERS STEP FROM FRAME  -  after a beat we hear a door
-     shut OFF CAMERA.
-
-     PUSH IN on Schreber  -  as the ANGLE TIGHTENS we see the fear in his
-     eyes.
-
-
-
-
 ********************************************************************************
 *	Scene 5 - On The Street
 ********************************************************************************
 
-     EXT.  STREET  -  NIGHT
+EXT.  STREET  -  NIGHT
 
      Walker crosses the street.
 
@@ -1296,7 +636,7 @@
      beneath:   SPECIAL: SHAVE & HAIRCUT $2.00.
 
 
-     INT.  DRUG STORE  -  NIGHT
+INT.  DRUG STORE  -  NIGHT
 
      Walker paces between bare, dusty shelves.  Only one shelf carries
      products  -  BOX AFTER BOX OF "LUMP-O".  He moves up to a small
@@ -1400,7 +740,7 @@
      PUSH IN ON WALKER  -  he smiles weakly.
 
 
-     EXT. DRUGSTORE  -  LATER
+EXT. DRUGSTORE  -  LATER
 
      Walker steps out, sporting a hair-cut.  He takes the cap off a small
      bottle of pills in his hand and takes a couple.
@@ -1445,12 +785,14 @@
 *	End of Scene 5
 ********************************************************************************
 
+
+
 ********************************************************************************
 *	Scene 6
 ********************************************************************************
 
 
-     INT.  SCHREBER'S OFFICE  -  NIGHT
+INT.  SCHREBER'S OFFICE  -  NIGHT
 
      TIGHT ANGLE  -  A phone on a shiny desk rings and a hand picks it up
      immediately  -  TILT TO SCHREBER.
@@ -1466,7 +808,7 @@
                   and see me immediately...
 
 
-     INT.  PHONE BOOTH  -  SAME  -  INTERCUT WITH SCHREBER AS
+INT.  PHONE BOOTH  -  SAME  -  INTERCUT WITH SCHREBER AS
      NEEDED
 
      Walker on the phone, scans the street nervously.
@@ -1522,7 +864,7 @@
      runs, hides behind a wall.
 
 
-     INT.  SCHREBER'S OFFICE  -  NIGHT
+INT.  SCHREBER'S OFFICE  -  NIGHT
 
      Schreber realizes Walker is not there.
 
@@ -1530,7 +872,7 @@
                   Mister Walker?  John!
 
 
-     EXT.  STREET  -  NIGHT
+EXT.  STREET  -  NIGHT
 
      Walker, still hiding behind the wall, watches the figures approach.
      He accidentally backs into some trash-cans.
@@ -1545,115 +887,11 @@
 
 
 
-
-
-     EXT.  CITY STREETS  -  NIGHT
-
-     A BLACK SEDAN drives over a rusty suspension bridge.  Stone
-     gargoyles look down at the lone vehicle.  Streets are empty.
-
-
-     INT.  BUMSTEAD'S CAR  -  NIGHT
-
-     INSIDE THE CAR Bumstead has appointed his unmarked-marked police
-     vehicle with all the comforts of hime:  hot thermos, note pad holder
-     (complete with light), coat hanger, gun rack.  A system for
-     everything.
-
-     Bumstead stares blankly ahead.  He chews on the last bit of
-     sandwich, removes a small brush from the glove box, and delicately
-     cleans the crumbs from his trousers.
-
-
-     EXT.  HOSPITAL ENTRANCE  -  NIGHT
-
-     BUMSTEAD'S CAR pulls up and stops.
-
-     INSIDE THE CAR  -  Bumstead grabs a bunch of flowers off the back
-     seat.
-
-
-     INT.  HOSPITAL  -  NIGHT
-
-     BUMSTEAD pushes through a swinging metal door  -  enters a sterile
-     air-conditioned room  -  and walks to an INTERN sitting behind a
-     glassed-in counter.  He talks to the intern through a tiny opening
-     in the window.
-
-                            BUMSTEAD
-                  Bumstead.  I'm here to see my
-                  mother.
-
-     INT. HOSPITAL ROOM  -  SAME
-
-     Bumstead enters darkness  -  pneumatic MACHINE NOISE fills the
-     gloom.  He walks quietly to his MOTHER, encased in a metallic
-     contraption, something like an iron lung.
-
-                            BUMSTEAD
-                       (whisper)
-                  Brought you these.
-
-     He places the flowers into a small vase on the bedside table  -
-     arranges them, then re-arranges them.
-
-     ON HIS MOTHER  -  who just stares expressionless, in a coma.  Her
-     life-sustaining machines hiss and breathe.
-
-     Bumstead seems pleased finally with the flowers and he sits on a
-     metal chair, looks at the woman.
-
-                            BUMSTEAD
-                  I've been doing some thinking
-                  lately.  I've been trying to
-                  remember things before you got
-                  sick...
-
-     He stops momentarily and stares into a dark corner of the door.
-
-                            BUMSTEAD
-                       (Cont.)
-                  Do you remember the two little girls
-                  I used to play with when I was
-                  young, the twins who lived next
-                  door?  I was thinking about them
-                  yesterday and I couldn't remember
-                  for the life of me what they looked
-                  like...  Then I realised why...
-
-     He brushes at a small piece of lint on his trousers.
-
-                            BUMSTEAD
-                       (Cont.)
-                  They...  didn't have faces.
-
-     He removes the lint and lets it float away in an air current.
-
-                            BUMSTEAD
-                       (Cont.)
-                  Just...  skin.  Here.
-                       (waves his hand past his
-                        face)
-                  No mistake.  I just hadn't
-                  remembered it that way.  Until that
-                  moment, they had been normal little
-                  girls in my memory.
-
-     He looks at his mother.
-
-                            BUMSTEAD
-                       (Cont.)
-                  I think I'm going mad.
-
-
-
-
-
 ********************************************************************************
 *	Scene 7
 ********************************************************************************
 
-     INT.  CHURCH  -  NIGHT
+INT.  CHURCH  -  NIGHT
 
      A PRIEST  -  is at the altar, cloaked in a blood-red robe, flanked
      by two ALTAR BOYS also in red.  Behind them is a statue of some kind
@@ -1848,7 +1086,7 @@
      Walker climbs narrow stairs rapidly.
 
 
-     INT.  BELL TOWER  -  NIGHT
+INT.  BELL TOWER  -  NIGHT
 
      Walker enters a low, raftered room, with three huge black BELLS
      hanging in the center.  Nowhere left to go, just a long drop to the
@@ -1940,7 +1178,7 @@
      Revolted, Walker SQUASHES the insect under his shoe.
 
 
-     EXT./INT.  VARIOUS  -  MONTAGE
+EXT./INT.  VARIOUS  -  MONTAGE
 
      Electricity ARCS between electrodes.
 
@@ -1961,336 +1199,11 @@
 
 
 
-
-
-     EXT.  BUMSTEAD'S BUILDING  -  NIGHT
-
-     TIGHT ON  -  a wristwatch spinning backwards crazily  - completely
-     haywire.
-
-     BUMSTEAD stands on a street corner staring blankly at his watch. 
-     Taps it several times, annoyed.
-
-     A DISTANT RUMBLE builds and the pavement he is standing on trembles
-     like a mini earthquake.  Then everything is still again.
-
-     Bumstead looks up and walks rapidly towards a dilapidated three
-     story building across the street.
-
-
-     INT.  BUMSTEAD'S BULDING  -  NIGHT
-
-     The inspector climbs stairs to a top floor.  He walks past a woman
-     smoking in an open doorway.  This is HELEN  -  Bumstead's neighbour.
-
-                            HELEN
-                  Long night at the office?
-
-     Bumstead smiles, but keeps moving past the wooman.
-
-                            BUMSTEAD
-                  'Evening, Helen.
-
-     Bumstead takes his keys from his coat pocket, steps up to the door
-     of his apartment, stops for a moment and looks back over his
-     shoulder.
-
-                            BUMSTEAD
-                       (Cont.)
-                  Say, know what time it is?
-
-                            HELEN
-                  Sure...
-                       (looks at her watch)
-                  ...that's strange.  My watch is
-                  nuts.
-
-     She looks at him and smiles.
-
-                            HELEN
-                       (Cont.)
-                  Oh, well.  That'll teach me to buy
-                  cheap crap...
-
-     Bumstead smiles.
-
-                            BUMSTEAD
-                  Goodnight.
-
-     Puzzled, he enters his room and shuts the door with a soft click.
-
-
-     INT.  BUMSTEAD'S APARTMENT
-
-     Bumstead puts down his bulging briefcase, takes off his coat and
-     hat.
-
-     Everything is extremely neat and organised, covering on all the
-     furniture.
-
-     TIGHT ON  -  a kettle being put on a stove  -  TILT UP to Bumstead
-     looking ever more perplexed.
-
-     HIS P.O.V. reveals a wall clock also spinning backwards.
-
-     ANGLE ON  -  a footstool in the lounge room.  Bumstead steps INTO
-     FRAME, carrying a massive PIANO ACCORDION.  He sits, places the
-     instrument on his knee and starts to play.
-
-     TIGHT ON HIS FINGERS dancing skilfully across the keyboard.  The
-     instrument itself is beautiful  -  ornate and sparkling.  The music
-     Bumstead makes is sad and hauntingly beautiful.
-
-     INT.  BLACKNESS
-
-     As our eyes adjust to the gloom...  THE CAMERA DESCENDS past pipes
-     and soil, foundations and sewers  -  rapidly gaining speed until it
-     is hurtling into the bowels of the city...
-
-
-     INT.  UNDERWORLD  -  NIGHT
-
-     ...THE CAMERA FINALLY STOPS ON A SILHOUETTED FIGURE sitting at a
-     polished black table.
-
-     A phone rings.
-
-     FIGURE 1 picks up the receiver and listens attentively, then hangs
-     up and writes something down, drops the note into A CHUTE.
-
-
-     INT.  CONTROL ROOM  -  NIGHT
-
-     The note falls from a slot in the wall before FIGURE 2 (in shadow
-     again).  He reads from the note then takes a long stick and moves
-     forward into the light.  We see he is a STRANGER.
-
-     He uses the stick to push two small cut-out figures of men across a
-     board, away from a large grouping of similar cut-outs.  The board
-     resembles a planning table in a war-room.
-
-     A HIGH ANGLE as the CAMERA PULLS BACK on the grouping of cut-out
-     figures.  More and more of them.  Ten.  Twenty.  A hundred.  A
-     sinister army.
-
-
-     INT.  DARK CHAMBER  -  NIGHT
-
-     TIGHT ON  -  A METAL ARM sweeping THROUGH FRAME in jerky increments.
-     PULL BACK TO REVEAL  -  it's the second hand on A MASSIVE RUSTED
-     METAL CLOCK.
-
-     CRANE DOWN from the clock TO:
-
-     DARK SILHOUETTES filing into a bunker-like room.  SILENCE except for
-     echoic ticking.
-
-     MISTER HAND walks in and sits near the front of the crowd.
-
-     The STRANGERS have gathered.
-
-     ONE MAN remains standing at the back of the room.
-
-                            STRANGER 1
-                  What is going to be done?  This
-                  situation is dangerous, yes...
-
-     A RUMBLING NOISE O.S. cuts him off.  Everyone looks UP:
-
-     TO A PORTAL high on a wall.  The noise gets louder.  SEVERAL
-     FIGURES on stilts run past outside the opening  -  then the noise
-     subsides.
-
-     While this spectacle is occurring, STRANGER 1 starts to tremble
-     violently, seized with a kind of convulsion, he froths at the mouth
-     and throws his head about.
-
-     STRANGER 2  (standing beside Stranger 1)  opens a silver box,
-     removes a small WRITHING WORM.  He places this on the tip of the
-     trembling man's tongue, who swallows it and calms down.
-
-     ANOTHER STRANGER rises suddenly, pushes forcefully to the front of
-     the group.
-
-                            STRANGER 3
-                  What about the Dreaming!  It is my
-                  responsibility to schedule this, we
-                  must resolve this issue, yes?
-
-     MISTER HAND faces him.  Stranger 3 is out of line, becomes agitated,
-     as if to say something further, then pulls himself short, sits down.
-
-                            STRANGER 2
-                  This has gone too far!  Tell Mister
-                  Black!  He'll know what to do.
-
-     A murmur of general agreement.
-
-     Stranger 1 stares blankly into space, he makes a peculiar clicking
-     noise with his mouth, his eyes roll upwards.
-
-                            STRANGER 4
-                  No!  Tell him nothing!  Not until we
-                  understand more.
-
-                            MISTER BLACK O.S.
-                  What is going on!
-
-     Everyone goes very quiet (particularly Stranger 4, who actually
-     cringes)  -  THE CAMERA PANS TO a doorway:
-
-     Completely silhouetted, the hunched over figure of MISTER BLACK
-     clutches his cane.
-
-     He hobbles INTO LIGHT and walks slowly to the front of the room.
-     He's much like the others but is very old.  He clears his throat,
-     then:
-
-                            MISTER BLACK
-                       (Cont.)
-                  Who will go first?
-
-     ANGLE ON  -  the hushed group of Strangers.  No one speaks.
-
-                            MISTER BLACK
-                       (Cont.)
-                  Let's get on with it, yes.
-
-     Mister Hand steps forward.
-
-                       MISTER HAND
-                  There is a problem.  A man has
-                  evaded us.  We have not been able to
-                  find him.
-
-     Mister Black says nothing for a moment  -  then he looks up at
-     Mister Hand.  PUSH IN TIGHT on Mister Black and for the first time
-     we see his piercing blue eyes.
-
-                            MISTER BLACK
-                  Go on.
-
-
-     INT.  HOTEL LOBBY  -  NIGHT
-
-     A PHOTO FLASH  -  illuminates the dead body of the hotel manager,
-     slumped in his own blood.
-
-     Bumstead leans INTO FRAME.  He examines several stab wounds in the
-     man's abdomen.  VARIOUS COPS search the room in the B.G.
-
-     Bumstead makes quick scribbles in his notebook then glances at the
-     front desk.
-
-     HIS P.O.V.  -  a dog-eared phone message ledger with coffee cup
-     stains on it.
-
-     Bumstead flicks through the last few pages, sees something.  He
-     holds the ledger up to the light.
-
-     TIGHT ANGLE  -  on the ledger.  We can make out the imprint of the
-     note to Walker on the backing page...  PAN WITH Bumstead's finger  -
-     a series of daily messages from Emma.
-
-     Officer Husselbeck appears behind Bumstead.
-
-                            COP
-                  Got another one upstairs.
-
-     Bumstead just nods silently.
-
-
-     INT.  HOTEL CORRIDOR  -  NIGHT
-
-     ANGLE ON  -  Bumstead climbing the narrow stairs near the elevator,
-     followed by Husselbeck.  They step into the room where a LONE COP is
-     dusting.
-
-
-     INT.  HOTEL ROOM  -  NIGHT
-
-                            BUMSTEAD
-                       (to cop)
-                  Take shots up here?
-
-                            COP
-                  Not yet.
-
-                            BUMSTEAD
-                  Where is everyone?
-
-                            COP
-                  Guess I'm it tonight.
-
-     Capek and the coroner step into the room.
-
-                            CAPEK
-                  Bumstead.
-
-                            BUMSTEAD
-                  'Evening, Capek.
-
-     Capek steps over to the woman's body, bends down to examine her.
-     Bumstead looks over his shoulder.
-
-                            BUMSTEAD
-                  It's our friend?
-
-                            CAPEK
-                  These cuts were made by a long,
-                  razor-like blade.  It's consistent
-                  with the killer.
-
-     The photographer from downstairs arrives and starts taking shots of
-     the woman.
-
-     Looking concerned, Capek pulls Bumstead aside.
-
-                            BUMSTEAD
-                  Something troubling you?
-
-                            CAPEK
-                  It's nothing specific.  But...
-
-                            BUMSTEAD
-                  Yes?
-
-                            CAPEK
-                  The wounds are so...  precise.
-
-                            BUMSTEAD
-                  Is that unusual?
-
-                            CAPEK
-                  In my past experience when they use
-                  a knife they tend to be more random.
-                  These are like a surgeon's incisions  -
-                  specific, unemotional.
-
-     Bumstead looks at the body for a moment.
-
-                            BUMSTEAD
-                  She been raped?
-
-                            CAPEK
-                  No.  In each case there has been no
-                  sexual attack on the victim.
-
-                            BUMSTEAD
-                  What does all that tell us?
-
-                            CAPEK
-                  You got me, Bumstead.
-
-
-
-
-
 ********************************************************************************
 *	Scene 8
 ********************************************************************************
 
-     INT.  SUBWAY STATION  -  NIGHT
+INT.  SUBWAY STATION  -  NIGHT
 
      WALKER RUNS like a madman.
 
@@ -2321,209 +1234,17 @@
 
 
 
-
-
-     INT.  POLICE STATION HALL-WAY  -  NIGHT
-
-     TRACKING SHOT towards a door:  CHIEF-INSPECTOR on the frosted glass. 
-     A hand reaches INTO FRAME, knocks twice.
-
-                            STROMBOLI O.S.
-                  Enter!
-
-
-     INT.  STROMBOLI'S OFFICE  -  NIGHT
-
-     Bumstead steps into the office  -  finds STROMBOLI wandering about
-     the room, distracted, searching for something...
-
-                            STROMBOLI
-                  What is it?
-
-     He grabs the waste-basket and empties the contents onto his desk,
-     sorts through it.
-
-                            BUMSTEAD
-                  A formality.  I need to speak with
-                  Kowolski.
-
-     Stromboli is looking through his desk drawers now.
-
-                            STROMBOLI
-                  What for?
-
-                            BUMSTEAD
-                  His reports are of no help.
-                  Kowolsi has fabricated a bizarre
-                  paranoid delusion.  I thought if I
-                  could interview him personally I
-                  might...
-
-                            STROMBOLI
-                  Leave him alone, Bumstead.
-
-                            BUMSTEAD
-                  It's extremely important to my
-                  investigation...
-
-                            STROMBOLI
-                  Let me be the judge of that.  You've
-                  seen for yourself he's unstable  -
-                  by all rights I should've released
-                  him from service  -  it's only for
-                  the sake of his familt that I've
-                  kept him on wages.  Now, anything
-                  else?
-
-     Stromboli is looking under his desk.
-
-                            BUMSTEAD
-                  Actually, I was wondering if you
-                  could give me a few uniforms, to
-                  follow up for me...
-
-                            STROMBOLI O.S.
-                       (pokes head above desk)
-                  Impossible.  Got trouble up to my
-                  ears right now  -  can't spare
-                  anyone.  Get your assistant to do
-                  that for you, she seems a capable
-                  girl...
-
-     Stromboli stands, looks behind pictures hanging off the walls.  A
-     big sign suspended above his desk says:  SO MUCH TO DO, SO LITTLE
-     TIME.
-
-                            BUMSTEAD
-                  Lost something, sir?
-
-                            STROMBOLI
-                  What makes you think that!  If you
-                  would just learn to concentrate on
-                  facts, not get so side-tracked  -
-                  you might get things done faster
-                  and...
-
-     The door clicks shut.  Stromboli looks up  -  Bumstead has gone.
-
-
-     INT.  POLICE STATION/SHOOTING GALLERY  -  LATER
-
-     A series of ply-wood SILHOUETTES RACE THROUGH FRAME, stop suddenly,
-     mechanically.  LOUD GUNSHOTS O.S.  Chunks of ply-wood blast away
-     violently.
-
-     BUMSTEAD is practising his marksmanship.
-
-     A HAND  -  on his shoulder.  He whips around TO SEE  -  CRENSHAW  -
-     she smiles stiffly at him.
-
-                            BUMSTEAD
-                  You must stop sneaking up on me like
-                  that!
-
-                            CRENSHAW
-                  I'm sorry.
-
-     Bumstead walks across to a table and puts his gun down.
-
-                            BUMSTEAD
-                       (looks at watch)
-                  Damn.
-                       (he unstraps watch  -
-                        hands it to Crenshaw)
-                  Here.  Fix this for me.
-
-                            CRENSHAW
-                  Yes sir.
-
-     Bumstead paces from the room.
-
-
-     INT.  BUMSTEAD'S OFFICE  -  SAME
-
-     Bumstead enters followed by Crenshaw.  He GRABS a sheet of paper off
-     his desk.
-
-                            BUMSTEAD
-                  You typed this report?
-
-     Crenshaw steps over and looks at it.
-
-                            CRENSHAW
-                  Yes, sir.
-
-                            BUMSTEAD
-                  Look at it.
-
-     Crenshaw bends down, adjusts her glasses, examines it.
-
-                            CRENSHAW
-                  It seems fine.
-
-                            BUMSTEAD
-                  Look here!
-
-     His finger points at the bottom of the page  -  a tiny,
-     INSIGNIFICANT ink smudge.
-
-                            BUMSTEAD
-                       (Cont.)
-                  How do you expect me to submit this?
-
-                            MISS CRENSHAW
-                  I'm...  sorry.
-
-                            BUMSTEAD
-                  Be more careful, please...
-
-                            CRENSHAW
-                  Certainly.
-
-                            BUMSTEAD
-                  Now, what do you want?
-
-                            CRENSHAW
-                  I have something to report...
-
-     She hands him some paperwork.
-
-                            CRENSHAW
-                       (Cont.)
-                  John and Emma Walker.  There was
-                  only one couple I could find in the
-                  city.  Here's where they live.
-
-     Bumstead takes the paperwork.  Looks through it carefully, then up
-     at renshaw.
-
-                            BUMSTEAD
-                  Maybe you'll work out after all,
-                  Crenshaw.
-
-     ON CRENSHAW  -  she's obviously beaming with pride, but she hides it
-     well.
-
-                            CRENSHAW
-                  Thankyou, sir.
-
-     She turns and leaves.  Bumstead watches her go  -  a half smile
-     flickers across his face.
-
-
-
-
 ********************************************************************************
 *	Scene 9
 ********************************************************************************
 
-     INT.  MEI'S BUILDING  -  NIGHT
+INT.  MEI'S BUILDING  -  NIGHT
 
      Walker follows Mei up a flight of dark stairs.  She keeps looking
      back at him, smiling but SAYS NOTHING.
 
 
-     INT.  MEI'S APARTMENT  -  NIGHT
+INT.  MEI'S APARTMENT  -  NIGHT
 
      Walker and the woman step into a shabby apartment.  She points to a
      couch.  Walker looks uncomfortable.  She smiles again, then turns on
@@ -2597,382 +1318,11 @@
 
 
 
-
-
-     INT.  TENEMENT BUILDING CORRIDOR  -  NIGHT
-
-     LOW ANGLE TRACKING SHOT  -  feet walk along a tattered rug, approach
-     a door.  Bumstead's shoes, shiny as always.
-
-
-     INT.  KOWOLSKI'S APARTMENT  -  NIGHT
-
-     KATE, KOWOLSKI'S WIFE, is feeding ONE OF HER CHILDREN in the
-     kitchen.
-
-                            BUMSTEAD O.S.
-                  Mrs. Kowolski?
-
-     Kate turns, to see Bumstead standing in the doorway behind her.  He
-     steps forward, smiles at the child.
-
-                            BUMSTEAD
-                  How old is the little girl?
-
-                            KATE
-                  Seventeen months.
-
-                            BUMSTEAD
-                  She's so pretty.
-                       (looks to Kate)
-                  The door was open.  I'm Frank
-                  Bumstead, I work with Harry.  How is
-                  he?
-
-                            KATE
-                  Oh, the same...
-
-     She glances to a closed bedroom door.
-
-                            KATE
-                       (Cont.)
-                  He won't even come out to go to the
-                  bathroom now...
-
-     She starts to cry.  Bumstead touches her shoulder, a little
-     embarrassed by the display of affection.
-
-                            BUMSTEAD
-                  Let me see what I can do.
-
-
-     INT. KOWOLSKI'S BEDROOM  -  NIGHT
-
-     KOWOLSKI'S unshaven, haunted.  Clutching a shotgun, is mumbling to
-     himself with his eyes tightly shut.
-
-     An knock on the door O.S. startles Kowolski.
-
-                            BUMSTEAD O.S.
-                  Kowolski!  Open up, it's me,
-                  Bumstead.
-
-     Kowolski steps to the door, opens it a little bit.
-
-                            KOWOLSKI
-                  Bumstead?  What are you doing here?
-
-                            BUMSTEAD
-                  Let's talk.
-
-     Kowolski wipes the sweat on his forehead.
-
-                            BUMSTEAD
-                       (Cont.)
-                  C'mon, let me in Kowolski.
-
-     Kowolski stares at Bumstead, then silently opens the door and lets
-     him through.
-
-                            BUMSTEAD
-                  I'm on the serial killer case.
-
-                            KOWOLSKI
-                  Oh?
-
-     The room is very dark.  Bumstead is assailed by a wave of putrid
-     smells.  It's a mess  -  rotten food, overturned furniture, dirty
-     clothes.
-
-     Kowolski's face is heavily bruised, covered in sweat.
-
-                            BUMSTEAD
-                  You don't look so hot...
-
-                            KOWOLSKI
-                  Yeah?  Well I'm having a really bad
-                  day.  Come to think of it, I've
-                  been having several of them all in
-                  a row...
-
-     Kowolski laughs at this, a little out of control.
-
-     They sit down, face each other in the gloom.  A RAT scuttles past
-     Kowolski.  With lightning reflexes he throws a shoe at it.  The rat
-     runs under the bed.  He looks back at Bumstead, smiles, more than a
-     little insane.
-
-                            KOWOLSKI
-                  I don't know anything, Bumstead.  As
-                  long as you understand, that's all.
-
-                            BUMSTEAD
-                  Can I do anything to help?
-
-                            KOWOLSKI
-                  No.
-
-                            BUMSTEAD
-                  Your wife, she's worried about you.
-
-                            KOWOLSKI
-                  She's the reason I'm in here.
-
-                            BUMSTEAD
-                  What do you mean?
-
-                            KOWOLSKI
-                  You don't want to listen to what I
-                  have to say...
-                       (leans forward  -
-                        whispers)
-                  It'll give you nightmares.
-
-                            BUMSTEAD
-                  I'll listen to anything you want to
-                  tell me.
-
-     Kowolski scuttles nearer Bumstead now, glares into his eyes.
-
-                            KOWOLSKI
-                  My family are impostors, Bumstead.
-                  What would you if you found out
-                  something like that?
-
-     Bumstead doesn't know how to answer.
-
-                            KOWOLSKI
-                       (Cont.)
-                  You'd probably lock yourself away
-                  too, right?
-
-     Kowolski sits back like that's all there is to it.
-
-                            BUMSTEAD
-                  You're going to have to explain this
-                  one to me, I'm afraid...
-
-                            KOWOLSKI
-                  Nothing to explain.  It's a...
-                  feeling.  I justr suddenly realised
-                  my life is a lie.  Oh, shit,
-                  Bumstead, you think I'd be in here
-                  if I could explain this stuff?  Ah,
-                  shit!
-                       (holds his temples)
-                  Hell, my head hurts so much!  God,
-                  Bumstead, I'm rotting away inside
-                  and there's nothing I can do about
-                  it.
-
-     BLOOD starts running from Kowolski's nostrils.  Bumstead hands him
-     his hanky.  Kowolski takes it, wipes his nose.
-
-                            BUMSTEAD
-                  You need a doctor...
-
-                            KOWOLSKI
-                  No.  You should go now.  There's
-                  nothing more I can tell you that
-                  will make any sense.  Please just
-                  go.
-
-
-     INT.  UNDERWORLD/LABORATORY  -  NIGHT
-
-     Metal scrapes against metal and WE'RE LOOKING DOWN  -  through an
-     OPENING hatch.  A dim laboratory IS REVEALED  -  a maze of
-     scientific instruments.
-
-     Elongated shadows move about.
-
-     PULL BACK FROM a diagrammatic chart depicting the evolution of the
-     human brain  -  TO REVEAL STRANGERS hunched over something.
-
-     STRANGER 1 bends across to a CONTROL PANEL, works a switch.  A small
-     speaker in a metal box crackles to life.  SOUND OF DISTANT SURF...
-
-     Electricity arcs across electrodes.
-
-     STRANGER 2 steps forward and pulls a bloodied sheet from their
-     handiwork.
-
-     It's MISTER SLEEP.  The top of his bald head is an open hatch.
-     Wires lead to HIS BRAIN.
-
-     TIGHT ON MISTER SLEEP'S EYES  -  glancing about the room.
-
-     STRANGER 1 shines a torch into his eyes.
-
-     INSIDE HIS HEAD  -  illuminated by the beam of the light.  REVEAL a
-     small writhing INSECT screwed to a metal plate.
-
-     MISTER HAND shows Mister Sleep PHOTOGRAPHS:  WALKER as he looks
-     currently, photos of him as a teenager, a young boy, a baby, his
-     parents standing on a seaside pier smiling and waving, his school,
-     his first sweetheart.  Then a photo of a young woman smiling  - it's
-     Emma, his wife.
-
-     STRANGER 2 holds up a small sea shell to the ear of the creature  -
-     MORE SOUNDS OF SURF...
-
-     Stranger 2 nods to Mister Hand.
-
-     Mister Hand produces the SILVER CASE we saw him holding in Walker's
-     hotel room.
-
-     TIGHT ON THE CASE  -  he opens it to reveal TWO METAL SYRINGES.  He
-     takes these out and injects them one after the other into the brain
-     of Mister Sleep.
-
-     MISTER BLACK looks on from the shadows.  His pale hand fondles the
-     ornate handle of his cane  -  a carved silver insect.
-
-     Mister Hand steps up to him.
-
-                            MISTER HAND
-                  It is done.
-
-     Mister Black turns towards the OTHER STRANGERS.
-
-                            MISTER BLACK
-                  I hear a clock in my head, and I
-                  like it!
-
-                            STRANGERS
-                       (in unison)
-                  We hear clocks in our heads, and we
-                  like them!
-
-                            MISTER BLACK
-                  A world in our likeness!
-
-                            STRANGERS
-                  A world in our likeness!
-
-     STRANGER 1 closes the top of Mister Sleep's head.  SQUEAK...  CLUNK!
-
-
-     EXT.  EMMA'S BUILDING  -  NIGHT
-
-     ANGLE DOLLIES  -  across the crumbling facade of a building  - STOPS
-     on an illuminated window.
-
-     THROUGH THE GLASS Bumstead and Emma sit at a kitchen table.  They
-     are talking but we cannot hear what is being said.
-
-
-     INT.  EMMA'S APARTMENT  -  NIGHT
-
-     TIGHT ANGLE  -  A sheet of paper, with seven names neatly typed on
-     it, is slid across the kitchen table.
-
-                            BUMSTEAD
-                  Do any of these names mean anything
-                  to you?
-
-     Emma glances at the list briefly but does not pick it up.
-
-                            EMMA
-                  No.
-
-                            BUMSTEAD
-                  Please take another look...
-
-                            EMMA
-                       (ignores the list)
-                  Why are you looking for my husband?
-
-                            BUMSTEAD
-                  I'm trying to help him, Mrs. Walker.
-                  That's all.
-
-     Emma stands and paces  -  she's angry.
-
-                            EMMA
-                  If you're going to accuse him of
-                  something I want to know what it is.
-
-                            BUMSTEAD
-                  We need to question him about a
-                  murder.
-
-                            EMMA
-                  Whose murder?
-
-     Bumstead simply glances at the page on the table in front of him.
-
-                            EMMA
-                       (Cont.)
-                  Which one?
-
-                            BUMSTEAD
-                  All of them.
-
-                            EMMA
-                  That's ridiculous.  You've got him
-                  confused with someone else.
-
-                            BUMSTEAD
-                  I'm afraid not.  I'm hoping he can
-                  help us straighten out this
-                  business.
-
-     Emma says nothing, just paces.
-
-     Bumstead glances to a partially open door to see Emma's mother
-     peeking out.  He looks back to Emma.
-
-                            BUMSTEAD
-                       (Cont.)
-                  I'm just trying to help him...
-
-                            EMMA
-                       (angrier)
-                  You're telling me in all
-                  seriousness, that my husband is a
-                  murderer.  You're very wrong.  He's
-                  a good man.  I don't want you or
-                  anyone else helping him.  I just
-                  want him back, that's all...
-
-     Bumstead looks at her for a moment, then steps to the window and
-     looks out.
-
-     HIS P.O.V.  -  In a building across the street he can make out a
-     dark figure -  WATCHING.
-
-                            EMMA
-                  None of this makes any sense.  John
-                  didn't do anything wrong.  Believe
-                  me, I know him, he just isn't...
-                  capable of it.
-
-                            BUMSTEAD
-                  Has anyone come here  -  looking for
-                  him?
-
-                            EMMA
-                  No.  Just his doctor, that's all.
-                  A few nights ago he came to tell me
-                  John was in some kind of trouble.
-                  I guess this is what he was talking
-                  about...
-
-     Bumstead turns back from the window.
-
-                            BUMSTEAD
-                  His doctor?
-
-
-
-
-
 ********************************************************************************
 *	Scene 10
 ********************************************************************************
 
-     INT.  MEI'S APARTMENT/BATHROOM  -  NIGHT
+INT.  MEI'S APARTMENT/BATHROOM  -  NIGHT
 
      TIGHT ON  -  a shirt being unbuttoned.
 
@@ -2988,7 +1338,7 @@
      Walker, naked, steps gently into the warm water filling the tub.
 
 
-     INT.  MEI'S APARTMENT/KITCHEN  -  NIGHT
+INT.  MEI'S APARTMENT/KITCHEN  -  NIGHT
 
      Mei starts putting his clothes into the sink to soak.  She slides a
      hand into Walker's coat, removes the wallet.  She takes out the
@@ -2996,7 +1346,7 @@
      MOVES OFF.
 
 
-     INT.  MEI'S APARTMENT/BATHROOM  -  NIGHT
+INT.  MEI'S APARTMENT/BATHROOM  -  NIGHT
 
      Walker is sitting in the tub running his neck.
 
@@ -3022,7 +1372,7 @@
      kisses him.
 
 
-     INT.  BEDROOM  -  MOMENTS LATER
+INT.  BEDROOM  -  MOMENTS LATER
 
      Mei pushes Walker back on a bed and pulls her dressing gown open.
      She sits upright, astride his body, caresses his chest.  Then she
@@ -3045,121 +1395,23 @@
 
 
 
-
-
-     EXT.  ROOF-TOP  -  NIGHT
-
-     STRANGERS are rigging a wire to some kind of antenna device.  THE
-     CAMERA DESCENDS ONCE AGAIN INTO THE BOWELS OF THE CITY:
-
-
-     INT.  UNDERWORLD/DARK CHAMBER  -  NIGHT
-
-     TIGHT ON TWO STRANGERS speaking in whispers.
-
-     PULL BACK WIDE TO REVEAL  -  The group of STRANGERS gathered once
-     again.  Mister Black addresses them.
-
-                            MISTER BLACK
-                  Now is the time.
-
-     A switch is thrown.  Electricity sparks to life.  A hum is in the
-     air.
-
-                            MISTER BLACK
-                       (Cont.)
-                  Eleven past eleven  -  the Night of
-                  the Eye.
-
-     The Strangers start to CHANT  -  TRANCE-LIKE, quietly at first,
-     steadily building in volume.
-
-                            STRANGERS
-                  NIGHT OF THE EYE!  NIGHT OF THE EYE!
-
-     A Stranger in the front row stands.
-
-                            STRANGER 1
-                  The Eye is too small for the head of
-                  the pin!
-
-     ANOTHER MAN stands.  Next to the first...
-
-                            STRANGER 2
-                  What is it that floats on the water?
-                  The Eye!
-
-     So it goes around the room, each man takes his turn in the strange
-     ritual.
-
-                            STRANGER 3
-                  The eye.  Master of time and space!
-
-     STRANGER 4 rises up  -  keeps rising, FLOATS IN THE AIR above the
-     men's heads.
-
-                            STRANGER 4
-                  My spine will bend for the Eye!
-
-     He turns sideways, still as a plank, still floating.
-
-                            MISTER BLACK
-                  Let the Dreaming commence!
-
-     The congregation of men place ELECTRODES to their foreheads.
-
-     SEVERAL Strangers about the room stand and MOVE RHYTHMICALLY to some
-     inner beat.
-
-
-     EXT.  ROOF-TOP  -  NIGHT
-
-     The antenna gloes with a ghostly green light.
-
-     SEVERAL ANGLES OF THE CITY  -  the streets are empty  -  a clock
-     chimes in the distance  -  THEN:
-
-     Buildings shudder  -  DISTORT  -  twisting and shifting  - one tower
-     ELONGATES stretching upwards  -  another building SPROUTS at the
-     top, organically, like TIME-LAPSE FOOTAGE of a plant growing.
-
-     The Strangers are CREATING  -  "DREAMING" NEW PARTS OF THE CITY INTO
-     BEING  -  while the people of the city sleep, unaware of what is
-     happening around them.
-
-
-     INT.  DARK CHAMBER  -  NIGHT
-
-     Mister Black sighs deeply  -  totally focused  -  wires taped to his
-     head...
-
-     THE CAMERA TIGHTENS, MOVES IN ON HIS EYES  -  SOMEHOW IT
-     PASSES INSIDE HIS HEAD  -  in the darkness, multi-faceted eyes glow,
-     INSECT EYES...
-
-
-
-
-
-
-
 ********************************************************************************
 *	Scene 11
 ********************************************************************************
 
-     INT.  MEI'S APARTMENT/BEDROOM  -  NIGHT
+INT.  MEI'S APARTMENT/BEDROOM  -  NIGHT
 
      Walker sleeps, as buildings MOVE PAST outside the window.
 
 
-     EXT.  MEI'S BUILDING  -  NIGHT
+EXT.  MEI'S BUILDING  -  NIGHT
 
      The building the lovers are in SLOWLY RISES into the air, past
      taller buildings and floats out over the city.  Its shadow moves
      past empty plazas and across grey towers.
 
 
-     INT.  MEI'S APARTMENT/BEDROOM  -  NIGHT
+INT.  MEI'S APARTMENT/BEDROOM  -  NIGHT
 
      Walker opens his eyes, FORCES himself awake.  Mei is gone.
 
@@ -3176,7 +1428,7 @@
      He stares up at furniture and objects.
 
 
-     INT.  MEI'S APARTMENT/BATHROOM  -  NIGHT
+INT.  MEI'S APARTMENT/BATHROOM  -  NIGHT
 
      Walker steps into the room, eerily illuminated by a glowing heater
      stuck to the floor.  Water is running  -  filling the tub and
@@ -3206,7 +1458,7 @@
      ERUPTS, splits apart, covering the room in a bloody explosion.
 
 
-     INT.  MEI'S APARTMENT/BEDROOM  -  NIGHT
+INT.  MEI'S APARTMENT/BEDROOM  -  NIGHT
 
      WALKER WAKES UP  -  for real this time.  He's still in bed, in a
      cold sweat, with Mei sleeping beside him, her back turned.
@@ -3227,74 +1479,11 @@
 
 
 
-
-
-
-     EXT.  STREET  -  NIGHT
-
-     BUMSTEAD pulls up in his car.  Across the street is DOCTOR
-     SCHREBER'S surgery.
-
-     He is about to get out of the car, when the SURGERY DOOR OPENS and
-     A FIGURE steps into the street.  Bumstead watches the shadowy man
-     for a moment.  Then gets out and FOLLOWS, assuming it is Schreber.
-
-     ALLEYWAY
-
-     Bumstead follows silently.
-
-     Without warning, the figure stops and TURNS.
-
-     Bumstead backs into a doorway and isn't seen.
-
-     He gets a glimpse of the gaunt features of a STRANGER in the dim
-     light of the alley.  It's Mister Hand.
-
-
-     EXT.  CATHEDRAL  -  LATER
-
-     HIGH ANGLE  -  looks down from the belltower.  We can make out THREE
-     FIGURES casting long shadows across the weathered stone steps at the
-     cathedral's entrance.
-
-     ON STREET LEVEL
-
-     MISTER HAND steps up to the gathering of Strangers.  For a moment he
-     does nothing, just watches MISTER SLEEP walk up and down the stairs.
-
-     Mister Sleep looks like he's lost something and can't decide where
-     to go look for it.  In the B.G. two other Strangers stand waiting
-     patiently.
-
-     WIDER P.O.V.  -  from acros the plaza someone is watching the
-     congrgation of Strangers.
-
-     REVEAL BUMSTEAD  -  in the shadows.
-
-     TIGHT ON MISTER SLEEP  -  he stops, and looks around, he's SENSING
-     something.  He smiles and steps over to Mister Hand.
-
-     Mister Hand leans down as Mister Sleep cups his hand and whispers
-     something into his ear.
-
-                            MISTER HAND
-                       (to the others)
-                  Mister Sleep says that way.
-
-     He points down a street.
-
-     BACK ON BUMSTEAD  -  He watches the distant figures walk off into
-     the night.
-
-
-
-
-
 ********************************************************************************
 *	Scene 12
 ********************************************************************************
 
-     EXT.  BRIDGE  -  NIGHT
+EXT.  BRIDGE  -  NIGHT
 
      THE CAMERA MOVES along a bridge-like structure.  An enclosed
      corridor supported by rotting wooden pylons.  Under the bridge,
@@ -3304,7 +1493,7 @@
      illuminated, dirty windows.
 
 
-     INT.  BRIDGE/SERIES OF ROOMS  -  NIGHT
+INT.  BRIDGE/SERIES OF ROOMS  -  NIGHT
 
      Walker is lost.
 
@@ -3319,175 +1508,18 @@
 
 
 
-     INT. DOCTOR SCHREBER'S OFFICE  -  NIGHT
-
-     SCHREBER is pacing towards DOUBLE-DOORS with Bumstead in hot
-     pursuit.
-
-                            BUMSTEAD
-                  He's amnesiac?
-
-                            SCHREBER
-                  I haven't seen Mister Walker in
-                  three weeks, but when we last spoke
-                  he convinced me he didn't have the
-                  slightest idea who I was  -  and
-                  when I began questioning him, he
-                  hung up.
-                       (beat)
-                  This is what I wanted to show you.
-
-     THE DOORS OPEN  -  and as the men step through REVEAL a room of
-     animal experiments.
-
-                            SCHREBER
-                       (Cont.)
-                  Formation of memories is the most
-                  important of brain functions.
-
-     TIGHTEN ON THE TWO MEN  -  as they look down on a monkey with the
-     top of its head missing, squirming in a mechanical device that
-     restricts its movements.
-
-                            SCHREBER
-                       (Cont.)
-                  We are little more than a sum of
-                  memories.  From them we reference
-                  who we are, where we're going.
-                  Without a past we are nothing.
-
-     Bumstead looks very uncomfortable.
-
-                            SCHREBER
-                       (Cont.)
-                  It feels no pain.
-
-     Schreber points at a wooden structure containing two rats.
-
-                            SCHREBER
-                       (Cont.)
-                  We know of two kinds of memory.
-                  Firstly, declarative memory.
-
-     The rats perform various activities involving mazes and geometric
-     symbols.  Schreber turns to look at Bumstead.
-
-                            SCHREBER
-                       (Cont.)
-                  And then there is procedural memory.
-
-     TIGHT ON HIS SLENDER FINGER  -  pointing to a machine also run by
-     rats.  The object is to make it through a guillotine device.  One
-     rat is successful, the other is chopped neatly in two.
-
-                            SCHREBER
-                       (Cont.)
-                  Research on simple animals can be...
-                  useful to show us where memory
-                  storing systems are located.
-                       (looks at nearby cage of
-                        hamsters)
-                  I'm planning an experiment with
-                  hamsters next.  Cute little fellows.
-
-                            BUMSTEAD
-                       (looks at rats)
-                  And this teaches you about human
-                  behaviour?
-
-                            SCHREBER
-                  Oh yes.  They're remarkably similar
-                  to us in some ways.  But I often
-                  wonder what they are really
-                  thinking.  Whether they realise
-                  they're part of an experiment.
-
-     Schreber smiles strangely at this.
-
-                            SCHREBER
-                       (Cont.)
-                  For all I know they could be
-                  secretly planning to take over the
-                  laboratory some day?
-
-                            BUMSTEAD
-                  Interesting thought, Doctor, but
-                  let's get back to Walker.
-
-                            SCHREBER
-                  Walker is what's called a "tabula
-                  rasa", physiologically more than
-                  competent, but behaviourally an
-                  empty slate.
-
-                            BUMSTEAD
-                  Why did he start coming to you?
-
-                            SCHREBER
-                  Severe depression.
-
-                            BUMSTEAD
-                  And when did his loss of memory
-                  occur?
-
-                            SCHREBER
-                  I think roughly three weeks ago,
-                  though I'm not sure, nor am I
-                  certain why it happened.
-                       (Schreber looks at
-                        Bumstead now)
-                  Has Walker done something, broken
-                  some law?
-
-                            BUMSTEAD
-                  He is a suspect.  I need to speak
-                  with him in connection to some
-                  rather serious crimes.
-
-                            SCHREBER
-                  Well, I'll do all I can to help
-                  you.
-
-                            BUMSTEAD
-                  Thank you for your trouble.  We'll
-                  be in touch.
-
-                            SCHREBER
-                  Of course.
-
-     Bumstead is about to go.
-
-                            BUMSTEAD
-                  Oh...
-                       (he turns back)
-                  I want to speak with Walker's
-                  wife...  Do you have any idea where
-                  I can find her?
-
-                            SCHREBER
-                  I'm afraid not.  I didn't know he
-                  was married.
-
-     Bumstead looks thoughtfully at the bizarre experiments one last
-     time, then turns and walks out the door.
-
-                            BUMSTEAD
-                  Thanks once again.
-
-
-
 ********************************************************************************
 *	Scene 13
 ********************************************************************************
 
-     EXT.  STREET  -  NIGHT
+EXT.  STREET  -  NIGHT
 
      Walker steps up to a SMALL DOOR in the side of a building.  A
      hanging sign depicts an underwater scene, crammed with fish, sea-
      weed bubbles.  Dominating everything is a GREEN SCALED KING NEPTUNE.
 
 
-     INT.  KING NEPTUNE'S AQUARIUM  -  NIGHT
+INT.  KING NEPTUNE'S AQUARIUM  -  NIGHT
 
      Walker stops in front of a ticket booth, beside a faded blue
      curtain.  In the booth a TICKET SELLER is snoring with his mouth
@@ -3517,14 +1549,14 @@
      Walker moves past a shadowy doorway.  He can barely make out STAIRS.
 
 
-     INT.  HALL-WAY  -  NIGHT
+INT.  HALL-WAY  -  NIGHT
 
      Walker moves cautiously in the darkness.  On a door a tiny NAMEPLATE
      says:  K. WALKER  -  PROPRIETOR.  The door is unlocked. He opens
      it and goes in.
 
 
-     INT.  KARL'S APARTMENT  -  NIGHT
+INT.  KARL'S APARTMENT  -  NIGHT
 
      An entrance hall of an apartment.  A large number of MOUNTED FISH of
      all sizes line the hall.  Walker studies these.
@@ -3710,7 +1742,7 @@
                   I don't know exactly.
 
 
-     INT.  ATTIC  -  LATER
+INT.  ATTIC  -  LATER
 
      A door opens against black and we see Walker and Karl at the bottom
      of a flight of stairs.  Walker starts to edge his way up into
@@ -3737,49 +1769,11 @@
 
 
 
-
-
-     INT.  CORRIDOR/MEI'S BUILDING  -  NIGHT
-
-     A FAT MAN in a suit exits Mei's door, looks around, and paces
-     rapidly away down the corridor, adjusting his tie and fumbling with
-     his coat.
-
-     AS THE CAMERA PANS with him, it picks up several shadows climbing
-     the stairs towards the landing.
-
-
-     INT.  MEI'S APARTMENT  -  NIGHT
-
-     MEI is walking towards the wooden screen, tying her robe around her
-     waist.  As she walks she says something in her own language,
-     speaking to the UNSEEN PERSON behind the screen established earlier.
-
-     There is a KNOCK O.S.
-
-     Mei stops, walks to the door, saying something else as she does so.
-
-
-     INT.  CORRIDOR/MEI'S BUILDING  -  NIGHT
-
-     The door swings open.  Mei is smiling, but suddenly looks
-     frightened.
-
-     REVERSE ANGLE  -  MISTER HAND, MISTER SLEEP, and entourage stand in
-     the corridor.
-
-     Almost immediately Mister Hand pushes into the room.  One of the
-     Strangers grabs Mei and puts a hand across her mouth.  Mister Sleep
-     enters last, shutting the door behind him.
-
-
-
-
 ********************************************************************************
 *	Scene 14
 ********************************************************************************
 
-     INT.  KARL'S APARTMENT  -  NIGHT
+INT.  KARL'S APARTMENT  -  NIGHT
 
      Walker and Karl are standing in the open doorway of a small bedroom.
 
@@ -3833,58 +1827,11 @@
 
 
 
-
-     INT.  KOWOLSKI'S APARTMENT  -  NIGHT
-
-     Kate is crying hysterically.  A COP is with her trying to calm her.
-
-     Bumstead enters and walks to ANOTHER COP speaking on the phone.
-
-                            BUMSTEAD
-                  What's up?
-
-     The cop gestures towards Kowolski's bedroom.
-
-
-     INT.  KOWOLSKI'S BEDROOM  -  NIGHT
-
-     The door swings open, unlocked.  Bumstead enters.  The room is pitch
-     dark.
-
-     An eerie silence.
-
-     Bumstead's foot bumps something.  He looks down to see:
-
-     KOWOLSKI  -  slumped over the shotgun wedged in his mouth.  A huge
-     eruption of blood on the wall behind his body.
-
-                            COP O.S.
-                  Looks like it's gonna be a busy
-                  night.
-
-     Bumstead turns to see the cop standing in the doorway.
-
-                            COP
-                       (Cont.)
-                  They found another one.
-
-     Bumstead nods and turns back to Kowolski's body.  In the gloom he
-     notices something else on the wall.
-
-     He finds a cigarette lighter on the floor  -  lights it...
-
-     The walls are covered in elaborate but hastily scrawled IMAGES.
-     Figures in long coats, with knives, insects, and a legend, it says:
-     WE ARE LIVING IN SOMEBODY'S DREAMS.
-
-
-
-
 ********************************************************************************
 *	Scene 15
 ********************************************************************************
 
-     EXT.  AERIAL  -  FLYING HIGH ABOVE THE DARK CITY
+EXT.  AERIAL  -  FLYING HIGH ABOVE THE DARK CITY
 
      The city is layed out like some kind of intricate aerial map.  All
      around is darkness, but to one side the ocean shimmers in the
@@ -3902,7 +1849,7 @@
      network of surrounding buildings, and AS THE IMAGE TIGHTENS we see
      it is Walker.
 
-     INT.  KARL'S APARTMENT/WALKER'S OLD BEDROOM  -  NIGHT
+INT.  KARL'S APARTMENT/WALKER'S OLD BEDROOM  -  NIGHT
 
      Walker startles awake to the SOUND OF:  Uncle Karl snoring in the
      next room.
@@ -3914,25 +1861,25 @@
      PUSHES TO THE WINDOW AND TILTS DOWN.
 
 
-     EXT.  ALLEYWAY  -  NIGHT
+EXT.  ALLEYWAY  -  NIGHT
 
      IN THE ALLEYWAY BELOW  -  four figures enter the building.  The last
      one stops and LOOKS UP.  Even from this distance it's obviously
      Mister Hand.
 
 
-     INT.  CORRIDOR/KARL'S BUILDING  -  NIGHT
+INT.  CORRIDOR/KARL'S BUILDING  -  NIGHT
 
      Walker exits Karl's apartment, heads down a corridor.  He sees some
      stairs and takes them.
 
 
-     INT.  ANOTHER CORRIDOR/KARL'S BUILDING  -  NIGHT
+INT.  ANOTHER CORRIDOR/KARL'S BUILDING  -  NIGHT
 
      Walker steps into a waiting elevator.  Punches the top floor button.
 
 
-     INT.  ELEVATOR  -  NIGHT
+INT.  ELEVATOR  -  NIGHT
 
      Walker looks through the circular window in the door.
 
@@ -3944,13 +1891,13 @@
      Then the elevator stops, the doors open.
 
 
-     EXT.  ROOF/KARL'S BUILDING  -  NIGHT
+EXT.  ROOF/KARL'S BUILDING  -  NIGHT
 
      Walker steps out onto the crumbling rooftop and gazes out over the
      city.
 
 
-     INT.  KARL'S APARTMENT  -  NIGHT
+INT.  KARL'S APARTMENT  -  NIGHT
 
      TIGHT ON  -  The front door's handle turning.
 
@@ -3960,7 +1907,7 @@
      a doorway  -  OUT OF FOCUS  -  figures move about the room.
 
 
-     INT.  CORRIDOR/KARL'S BUILDING  -  MOMENTS LATER
+INT.  CORRIDOR/KARL'S BUILDING  -  MOMENTS LATER
 
      Walker is heading back to Karl's apartment when he hears something
      MOVING UP the corridor towards him.  It's dark and he can't make it
@@ -3972,7 +1919,7 @@
      WIDER  -  Mister Sleep advances towards Walker.
 
 
-     INT.  ANOTHER CORRIDOR/KARL'S BUILDING
+INT.  ANOTHER CORRIDOR/KARL'S BUILDING
 
      Walker tears around a corner  -  a dead-end.  Nowhere to go.  He can
      hear SCRAPING approaching, behind him.
@@ -3981,7 +1928,7 @@
      into an incredibly tight duct.
 
 
-     INT.  AIR DUCT  -  NIGHT
+INT.  AIR DUCT  -  NIGHT
 
      ON WALKER  -  as he crawls frantically.
 
@@ -4003,18 +1950,18 @@
      impossible but it's his one chance.
 
 
-     EXT.  AIR DUCT/KARL'S BUILDING  -  NIGHT
+EXT.  AIR DUCT/KARL'S BUILDING  -  NIGHT
 
      Walker climbs out, balancing himself on the lip of the opening,
      REACHES for the pipe.
 
 
-     INT.  AIR DUCT
+INT.  AIR DUCT
 
      Mister Sleep is almost upon him.
 
 
-     EXT.  AIR DUCT/KARL'S BUILDING  -  NIGHT
+EXT.  AIR DUCT/KARL'S BUILDING  -  NIGHT
 
      Walker swings across, gets a HAND on the pipe.  He slips, DANGLES
      holding on  -  one hand on the pipe, one on the edge of the hole.
@@ -4038,7 +1985,7 @@
      comes.  He opens his eyes, slowly LOOKS AROUND...
 
 
-     EXT.  CANAL  -  NIGHT
+EXT.  CANAL  -  NIGHT
 
      WIDER ANGLE
 
@@ -4074,128 +2021,11 @@
 
 
 
-
-     INT.  STAIRWELL/MEI'S BUILDING  -  NIGHT
-
-     A small annoying dog is yapping frantically in a doorway.  Cops move
-     past, and up the stairs to the NEXT LANDING, as an overly-made-up
-     WOMAN pulls on the dog's leash trying to stop it from nipping cops'
-     ankles.
-
-     Bumstead is standing beside the woman.
-
-                            WOMAN
-                  She always had strange types visit
-                  her, but I didn't see or hear
-                  nothing this time.  Poor, sad,
-                  creature...
-
-                            BUMSTEAD
-                  Thank you.
-
-     He is about to walk up the stairs but the dog is in his way.
-
-     TIGHT ON THE DOG  -  it bares its teeth and growls.
-
-
-     INT.  MEI'S APARTMENT  -  NIGHT
-
-     A HIGH ANGLE on the slain body of Mei.  COPS wander about the dark
-     room.  Bumstead walks up to Capek who is examining the body, with
-     Husselbeck standing beside him.
-
-                            CAPEK
-                  All the same wounds.  It's
-                  definitely him.
-                       (indicates Mei's corpse)
-                  But there's something else.
-
-     Capek points to a small wound on Mei's neck.
-
-                            CAPEK
-                       (Cont.)
-                  These have me stumped.  The other
-                  girl we found had one just like it  -
-                  see the way the edges are
-                  perforated?
-
-                            BUMSTEAD
-                  Yes.  It looks like a bite.
-
-                            CAPEK
-                  Only there was no trace of saliva  -
-                  and the diameter of the wound is too
-                  narrow to have been made by a normal
-                  adult.
-                       (looks at Bumstead)
-                  Know who she is?
-
-                            BUMSTEAD
-                  A prostitute.  She lived here.
-
-     A YOUNG COP steps up to Husselbeck, glancing at Bumstead.
-
-                            YOUNG COP
-                  She won't come out.
-
-     Husselbeck leads Bumstead behind a WOODEN PARTITION.
-
-
-     INT.  MEI'S APARTMENT/AN ADJOINING ROOM
-
-     A small area neatly arranged  -  a double bed, various possessions.
-     Dozens of CHILDREN'S DRAWINGS are pinned to the walls.  Someone
-     obviously lives here.  The room is empty however.
-
-                            HUSSELBECK
-                  We found a young girl.  We think
-                  it's her daughter.
-
-     BUMSTEAD looks at Husselbeck:  Where is she?
-
-     Husselbeck nods towards THE BED.
-
-     Bumstead steps over, bends down and lifts the bed-spread.  In the
-     shadows underneath, he can make out A FACE.
-
-     TIGHTEN ON A LITTLE GIRL  -  hiding, clutching a bundle.
-     Terrified, she edges away from Bumstead.
-
-     Capek steps into the room.
-
-                            BUMSTEAD
-                       (to little girl)
-                  Come on.  I won't hurt you.
-
-     Then Bumstead gets a better look at what she's holding.  Bumstead
-     looks around at Capek.
-
-                            BUMSTEAD
-                       (Cont.)
-                  She's got a baby with her.
-
-     Then Bumstead notices something, past Capek.
-
-     HIS P.O.V.
-
-     The wooden screen.  The CAMERA MOVES IN steadily, into a crack
-     running along the length of the screen  -  we can see the room on
-     the other side, with cops moving about.
-
-                            BUMSTEAD
-                       (Cont.)
-                  My God, Capek.  She saw
-                  happened here.
-
-
-
-
-
 ********************************************************************************
 *	Scene 16
 ********************************************************************************
 
-     EXT.  BUILDING  -  NIGHT
+EXT.  BUILDING  -  NIGHT
 
      MOVE IN ON a doorway.  Above it a small illuminated red sign: DOCTOR
      D.P. SCHREBER.
@@ -4204,13 +2034,13 @@
      His clothes are still wet.
 
 
-     INT.  CRENSHAW'S CAR  -  NIGHT
+INT.  CRENSHAW'S CAR  -  NIGHT
 
      PULL BACK OFF Walker entering the door beneath Schreber's sign TO
      REVEAL Crenshaw parked in a car across the street.
 
 
-     INT.  SCHREBER'S WAITING ROOM  -  NIGHT
+INT.  SCHREBER'S WAITING ROOM  -  NIGHT
 
      A white room, bare, dirt stains the walls near the air-vents.  A
      NURSE is typing behind her desk.
@@ -4239,13 +2069,13 @@
      Walker turns to see Schreber standing in a doorway across the room.
 
 
-     INT.  SCHREBER'S SURGERY  -  LATER
+INT.  SCHREBER'S SURGERY  -  LATER
 
      THE CAMERA GLIDES down a corridor, towards a door  -  a sign says,
      DOCTOR IS:  IN.
 
 
-     INT.  SCHREBER'S OFFICE
+INT.  SCHREBER'S OFFICE
 
      Walker sits in a leather chair across from an ornate desk.
 
@@ -4375,34 +2205,11 @@
 
 
 
-
-     INT.  STREET  -  NIGHT
-
-     Bumstead is getting into his car, deep in thought, when his radio
-     crackles.
-
-                            CRENSHAW O.S.
-                  Inspector.  Hello, inspector.
-
-     He grabs the radio.
-
-                            BUMSTEAD
-                  Crenshaw.
-
-                            CRENSHAW O.S.
-                  Inspector, I've been trying to reach
-                  you for twenty minutes.  I have
-                  something to report...
-
-
-
-
-
 ********************************************************************************
 *	Scene 17
 ********************************************************************************
 
-     INT.  HALL-WAY (SCHREBER'S RESIDENCE)  -  LATER
+INT.  HALL-WAY (SCHREBER'S RESIDENCE)  -  LATER
 
      Schreber's office is an annex of his living quarters  -  a maze-like
      series of rooms and halls.  Walker is led down a dark hall by
@@ -4433,7 +2240,7 @@
      They've stopped outside a door.
 
 
-     INT.  EXAMINATION ROOM  -  SAME
+INT.  EXAMINATION ROOM  -  SAME
 
      A small bare room, much like an operating theatre.  Clean and
      efficient.
@@ -4659,13 +2466,13 @@
 ********************************************************************************
 
 
-     EXT.  CITY STREETS  -  NIGHT
+EXT.  CITY STREETS  -  NIGHT
 
      Bumstead's BLACK SEDAN drives down a wide street between tall
      buildings.
 
 
-     INT.  BUMSTEAD'S CAR  -  NIGHT
+INT.  BUMSTEAD'S CAR  -  NIGHT
 
      WALKER and the INSPECTOR drive silently.
 
@@ -4691,7 +2498,7 @@
      Bumstead says nothing.
 
 
-     INT.  POLICE STATION/VARIOUS  -  NIGHT
+INT.  POLICE STATION/VARIOUS  -  NIGHT
 
      A SHAKY FINGER presses down on the sticky surface of a page.  It
      pulls away revealing an inky finger-print.
@@ -4716,13 +2523,13 @@
      To the right.  The camera fires again.
 
 
-     INT.  LINE-UP ROOM
+INT.  LINE-UP ROOM
 
      LIGHTS COME ON  -  extremely bright.  Markings on the white wall
      behind Walker indicate varying heights, a darkened window faces him.
 
 
-     INT.  OBSERVATION ROOM
+INT.  OBSERVATION ROOM
 
      BEHIND THE GLASS  -  we see several silhouettes, unseen by Walker.
      We recognize the voice of Bumstead.
@@ -4740,17 +2547,17 @@
                   I think so.  Yes, that's him.
 
 
-     INT.  LINE-UP ROOM
+INT.  LINE-UP ROOM
 
      Walker blinks into the lights.
 
 
-     INT.  CORRIDOR/POLICE STATION  -  LATER
+INT.  CORRIDOR/POLICE STATION  -  LATER
 
      Walker is dragged along by TWO BIG GUARDS.
 
 
-     INT.  INTERROGATION ROOM  -  LATER
+INT.  INTERROGATION ROOM  -  LATER
 
      TIGHT ON WALKER  -  dazed, exhausted, squinting from the lights.
      The questioning has been going on for some time.
@@ -4869,7 +2676,7 @@
                   I'm not buying this amnesia stuff.
 
 
-     EXT.  POLICE COMPOUND  -  SAME
+EXT.  POLICE COMPOUND  -  SAME
 
      Walker is taken through a compound between buildings.  Behind a wire
      mesh fence, a SMALL CROWD OF CITIZENS hurl abuse and trash at him.
@@ -4890,7 +2697,7 @@
 *	Scene 19
 ********************************************************************************
 
-     INT.  POLICE VISITING ROOM  -  NIGHT
+INT.  POLICE VISITING ROOM  -  NIGHT
 
      Walker is led into an empty room with a glass barrier down the
      middle.  The guards sit him in a chair, then leave the room.
@@ -4924,7 +2731,7 @@
 
 
 
-     INT.  BUMSTEAD'S OFFICE  -  NIGHT
+INT.  BUMSTEAD'S OFFICE  -  NIGHT
 
      TIGHT ON  -  Walker's belongings spread out on Bumstead's desk.  The
      photo of Emma, the postcard, the wallet...
@@ -4962,7 +2769,7 @@
 *	Scene 20
 ********************************************************************************
 
-     INT.  POLICE VISITING ROOM  -  LATER
+INT.  POLICE VISITING ROOM  -  LATER
 
      Walker and Emma face each other through the glass barrier.
 
@@ -4980,7 +2787,7 @@
      watches his reflection in a mirror.
 
 
-     INT.  POLICE OBSERVATION ROOM  -  NIGHT
+INT.  POLICE OBSERVATION ROOM  -  NIGHT
 
      BEHIND THE MIRROR
 
@@ -5001,7 +2808,7 @@
                   like I'm not real any more.
 
 
-     INT.  POLICE VISITING ROOM
+INT.  POLICE VISITING ROOM
 
      Walker turns to look at her.  She's crying, but she looks down,
      fumbles with coat, then starts to open her blouse...
@@ -5012,13 +2819,13 @@
                   I'm beautiful any more?
 
 
-     INT.  POLICE OBSERVATION ROOM
+INT.  POLICE OBSERVATION ROOM
 
      Bumstead watches Emma.  He glances away, feels immoral watching this
      private moment.
 
 
-     INT.  POLICE VISITING ROOM
+INT.  POLICE VISITING ROOM
 
      Walker steps over to her.
 
@@ -5087,7 +2894,7 @@
 
 
 
-     INT.  POLICE OBSERVATION ROOM
+INT.  POLICE OBSERVATION ROOM
 
                             CRENSHAW O.S.
                   Inspector.
@@ -5107,7 +2914,7 @@
                   doctor.
 
 
-     INT.  BUMSTEAD'S OFFICE  -  NIGHT
+INT.  BUMSTEAD'S OFFICE  -  NIGHT
 
      Bumstead and Crenshaw enter.  Bumstead grabs the receiver from the
      desk.
@@ -5121,7 +2928,7 @@
                   exactly as I tell you...
 
 
-     INT.  POLICE STATION CORRIDOR  -  LATER
+INT.  POLICE STATION CORRIDOR  -  LATER
 
      BUMSTEAD steps from his office and heads down an empty corridor.
 
@@ -5135,7 +2942,7 @@
                   We need to talk.  Immediately.
 
 
-     INT. STROMBOLI'S OFFICE  -  NIGHT
+INT. STROMBOLI'S OFFICE  -  NIGHT
 
      Bumstead enters.  A nervous CHIEF-INSPECTOR is pacing in front of
      the glass wall that looks out over the precinct foyer.
@@ -5198,7 +3005,7 @@
      he spins and leaves.
 
 
-     INT.  POLICE STATION FOYER  -  SAME
+INT.  POLICE STATION FOYER  -  SAME
 
      ANGLE ON  -  the GROUP OF BROWN-SUITED MEN  -  they stand around
      awkwardly, not speaking.
@@ -5225,7 +3032,7 @@
 *	Scene 21
 ********************************************************************************
 
-     INT.  HOLDING CELL  -  NIGHT
+INT.  HOLDING CELL  -  NIGHT
 
      Walker is staring blankly ahead at a small metal table across the
      room.  He concentrates, anger is simmering.
@@ -5243,7 +3050,7 @@
 ********************************************************************************
 
 
-     INT.  BUMSTEAD'S OFFICE  -  NIGHT
+INT.  BUMSTEAD'S OFFICE  -  NIGHT
 
      Crenshaw steps in.  She's about to start filing the towering
      collection of paperwork on her desk but she notices something.
@@ -5253,7 +3060,7 @@
      She picks it up and looks at it quizzically, as behind her:
 
 
-     INT.  CORRIDOR/POLICE STATION
+INT.  CORRIDOR/POLICE STATION
 
      STROMBOLI and the STRANGERS walk past the doorway.
 
@@ -5264,7 +3071,7 @@
      pocket.
 
 
-     INT.  POLICE HOLDING CELL  -  WIDE
+INT.  POLICE HOLDING CELL  -  WIDE
 
      Stromboli opens the door and steps in.  His face drops.  Walker is
      gone.
@@ -5280,12 +3087,12 @@
 *	Scene 22
 ********************************************************************************
 
-     EXT.  CITY STREET  -  NIGHT
+EXT.  CITY STREET  -  NIGHT
 
      Bumstead's car is travelling FAST.
 
 
-     INT.  BUMSTEAD'S CAR  -  SAME
+INT.  BUMSTEAD'S CAR  -  SAME
 
      Walker looks at the inspector  -  street lights pass over Bumstead
      as he stares at the road.
@@ -5348,7 +3155,7 @@
 
 
 
-     INT.  UNDERWORLD/DARK CHAMBER  -  NIGHT
+INT.  UNDERWORLD/DARK CHAMBER  -  NIGHT
 
      DOCTOR SCHREBER is led into the room by Mister Hand.  The doctor
      sits at the head of a boardroom-style table.  He's cold, pulls his
@@ -5468,7 +3275,7 @@
 *	Scene 23
 ********************************************************************************
 
-     INT.  BUMSTEAD'S APARTMENT  -  NIGHT
+INT.  BUMSTEAD'S APARTMENT  -  NIGHT
 
      Bumstead leads Walker through the front door, into a SITTING ROOM.
 
@@ -5601,7 +3408,7 @@
 *	Scene 24
 ********************************************************************************
 
-     INT.  PUBLIC LIBRARY  -  NIGHT
+INT.  PUBLIC LIBRARY  -  NIGHT
 
      A vast, empty room.  An expanse of polished floor.
 
@@ -5624,7 +3431,7 @@
                   We'd like to see it all the same.
 
 
-     INT.  LIBRARY CORRIDOR  -  NIGHT
+INT.  LIBRARY CORRIDOR  -  NIGHT
 
      The librarian leads Walker and Bumstead down a DARK HALL lined with
      statues between towering rows stacked with old volumes.
@@ -5636,7 +3443,7 @@
                   In there.
 
 
-     INT.  MAP SECTION  -  LATER
+INT.  MAP SECTION  -  LATER
 
      A narrow room, crammed with old documents.
 
@@ -5721,7 +3528,7 @@
 ********************************************************************************
 
 
-     EXT.  BATH-HOUSE  -  NIGHT
+EXT.  BATH-HOUSE  -  NIGHT
 
      Walker and Bumstead stand before FROSTED GLASS DOORS.  Bumstead's
      car is parked on the street behind them.
@@ -5735,7 +3542,7 @@
      open.
 
 
-     INT.  BATH-HOUSE  -  NIGHT
+INT.  BATH-HOUSE  -  NIGHT
 
      The two men walk cautiously through the echoic interior.  Bumstead
      has his pistol DRAWN.
@@ -5783,7 +3590,7 @@
                   First there was darkness.
 
 
-     INT.  HOTEL BATHROOM (FLASHBACK)
+INT.  HOTEL BATHROOM (FLASHBACK)
 
      FADE UP ON  -  A WIDE DOWN SHOT  -  Walker lies sleeping in the tub.
      The door opens and Schreber enters.
@@ -5842,14 +3649,14 @@
                   wanted to give you my own engram.
 
 
-     INT.  HOTEL BEDROOM (FLASHBACK)
+INT.  HOTEL BEDROOM (FLASHBACK)
 
      IN THE BEDROOM  -  Mister Sleep has just finished killing the woman.
      He is wiping blood off his blade.  He turns towards the bathroom
      door  -  he's heard something.
 
 
-     INT.  HOTEL BATHROOM (FLASHBACK)
+INT.  HOTEL BATHROOM (FLASHBACK)
 
      Schreber climbs awkwardly out onto the ledge outside the window,
      shuts the window behind him, tries to look back into the room  -  he
@@ -5864,12 +3671,12 @@
                   Strangers at their own game...
 
 
-     INT.  HOTEL CORRIDOR (FLASHBACK)
+INT.  HOTEL CORRIDOR (FLASHBACK)
 
      Mister Sleep walks away down the corridor, towards the elevator.
 
 
-     INT.  HOTEL BATHROOM (FLASHBACK)
+INT.  HOTEL BATHROOM (FLASHBACK)
 
      Walker gets out of the bath.  Schreber still watches from the ledge,
      but just then the ledge gives way, he almost falls and has to
@@ -5888,7 +3695,7 @@ END FLASHBACK
 *	Scene 27
 ********************************************************************************
 
-     INT.  BATH-HOUSE  -  NIGHT
+INT.  BATH-HOUSE  -  NIGHT
 
      Schreber is pacing along the edge of the pool  -  DAPPLED LIGHT
      illuminates his face from below, making him look quite demonic.
@@ -5989,7 +3796,7 @@ END FLASHBACK
 *	Scene 28
 ********************************************************************************
 
-     EXT.  ALLEY  -  NIGHT
+EXT.  ALLEY  -  NIGHT
 
      WALKER, unconscious, is carried by the Strangers down a narrow alley
      to a SOLITARY METAL DOOR in a wall.
@@ -6002,7 +3809,7 @@ END FLASHBACK
      ANGLE ON THE MAT  -  on it is written:  WELCOME.
 
 
-     INT.  CORRIDOR/ELEVATOR
+INT.  CORRIDOR/ELEVATOR
 
      Through the door  -  AN ELEVATOR.  There is only a down button.
      Mister Hand presses it, several seconds later the doors OPEN.
@@ -6012,7 +3819,7 @@ END FLASHBACK
      When the doors open again they reveal a DARK PASSAGEWAY.
 
 
-     INT.  STRANGERS' UNDERWORLD  -  NIGHT
+INT.  STRANGERS' UNDERWORLD  -  NIGHT
 
      WALKER is beginning to come to.  He's taken down a corridor to a
      small RAISED PLATFORM, between arches.
@@ -6066,7 +3873,7 @@ END FLASHBACK
 
 
 
-     INT.  HOSPITAL ROOM  -  NIGHT
+INT.  HOSPITAL ROOM  -  NIGHT
 
      Bumstead enters, holding his piano accordion.  He's clutching a
      bleeding gash in his side...  He stumbles over to his mother, in her
@@ -6109,7 +3916,7 @@ END FLASHBACK
 *	Scene 29
 ********************************************************************************
 
-     INT.  UNDERWORLD/BARE ROOM  -  NIGHT
+INT.  UNDERWORLD/BARE ROOM  -  NIGHT
 
      Walker steps in.  The door shuts automatically behind him.
 
@@ -6141,7 +3948,7 @@ END FLASHBACK
      the door and steps into darkness.
 
 
-     INT.  UNDERWORLD WHEEL ROOM
+INT.  UNDERWORLD WHEEL ROOM
 
      LIGHTS COME ON  -  extremely bright.
 
@@ -6162,7 +3969,7 @@ END FLASHBACK
                   Move  -  forward.
 
 
-     INT.  UNDERWORLD X-RAY ROOM
+INT.  UNDERWORLD X-RAY ROOM
 
      The next room is full of SCIENTIFIC EQUIPMENT.
 
@@ -6176,7 +3983,7 @@ END FLASHBACK
      Across the room double doors open TO REVEAL:
 
 
-     INT.  DARK CHAMBER  -  SAME
+INT.  DARK CHAMBER  -  SAME
 
                             VOICE
                   Move  -  forward.
@@ -6422,7 +4229,7 @@ END FLASHBACK
 ********************************************************************************
 
 
-     EXT.  CITY  -  NIGHT
+EXT.  CITY  -  NIGHT
 
      All over the city things START TO FALL APART...
 
@@ -6446,7 +4253,7 @@ END FLASHBACK
      THE CITY is coming apart...
 
 
-     INT.  HOSPITAL ROOM  -  NIGHT
+INT.  HOSPITAL ROOM  -  NIGHT
 
      Bumstead is slumped over his accordion  -  there is a pool of blood
      on the floor beneath him, but he's still breathing.
@@ -6504,7 +4311,7 @@ END FLASHBACK
 *	Scene 30
 ********************************************************************************
 
-     EXT.  STREET  -  NIGHT
+EXT.  STREET  -  NIGHT
 
      WALKER is running, clutching THE MAP.
 
@@ -6512,7 +4319,7 @@ END FLASHBACK
      hemmed in on both sides by a veritable wall of towers.
 
 
-     INT.  ORNATE BUILDING  -  MOMENTS LATER
+INT.  ORNATE BUILDING  -  MOMENTS LATER
 
      Walker reaches the top of a spiral flight of stairs.
 
@@ -6522,7 +4329,7 @@ END FLASHBACK
      forward.
 
 
-     INT.  APARTMENT 'H'
+INT.  APARTMENT 'H'
 
      The door creaks open, unlocked.
 
@@ -6564,13 +4371,13 @@ END FLASHBACK
      Walker turns and walks off into darkness.
 
 
-     EXT.  CITY  -  NIGHT
+EXT.  CITY  -  NIGHT
 
      The skyline continues to CHANGE  -  buildings COLLAPSE, FIRES have
      started burning, DISTANT SCREAMS O.S.
 
 
-     INT.  HOTEL ROOM  -  NIGHT
+INT.  HOTEL ROOM  -  NIGHT
 
      A P.O.V. enters a small room.
 
@@ -6632,7 +4439,7 @@ END FLASHBACK
      ANGLE WIDENS AGAIN  -  Walker is gone.
 
 
-     INT.  LONG CORRIDOR  -  DAY
+INT.  LONG CORRIDOR  -  DAY
 
      SOUND OF SURF, distant, muffled.
 
@@ -6667,7 +4474,7 @@ END FLASHBACK
      his messy hair.  SURF NOISE is louder now.
 
 
-     EXT.  PIER  -  DAY
+EXT.  PIER  -  DAY
 
      REVERSE ANGLE  -  WIDER  -  OUTSIDE looking through the door, along
      a long wooden pier jutting out into a blue seascape.  At the end of
